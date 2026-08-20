@@ -1,8 +1,8 @@
 # Awesome streaming with stars
 
-## Awesome Streaming  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 497,698 | 🐛 102 | 📅 2026-08-18 [![Build Status](https://github.com/manuzhang/awesome-streaming/workflows/build/badge.svg)](https://github.com/manuzhang/awesome-streaming/actions) ⭐ 3,004 | 🐛 5 | 🌐 JavaScript | 📅 2026-08-18
+## Awesome Streaming  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 498,078 | 🐛 105 | 📅 2026-08-18 [![Build Status](https://github.com/manuzhang/awesome-streaming/workflows/build/badge.svg)](https://github.com/manuzhang/awesome-streaming/actions) ⭐ 3,006 | 🐛 5 | 🌐 JavaScript | 📅 2026-08-19
 
-A curated list of awesome [streaming (stream processing)](http://radar.oreilly.com/2015/08/the-world-beyond-batch-streaming-101.html) frameworks, applications, readings and other resources. Inspired by [other awesome projects](https://github.com/sindresorhus/awesome) ⭐ 497,698 | 🐛 102 | 📅 2026-08-18.
+A curated list of awesome [streaming (stream processing)](http://radar.oreilly.com/2015/08/the-world-beyond-batch-streaming-101.html) frameworks, applications, readings and other resources. Inspired by [other awesome projects](https://github.com/sindresorhus/awesome) ⭐ 498,078 | 🐛 105 | 📅 2026-08-18.
 
 ## Website
 
@@ -20,28 +20,28 @@ A curated list of awesome [streaming (stream processing)](http://radar.oreilly.c
 
 ### Engines and Platforms
 
-* [Apache Spark Streaming](https://github.com/apache/spark) ⭐ 43,839 | 🐛 492 | 🌐 Scala | 📅 2026-08-19 <sub>![Scala/Java/Python/R][language-scala-java-python-r]</sub> - Scalable, fault-tolerant stream processing on Apache Spark.
-* [Apache Kafka](https://github.com/apache/kafka) ⭐ 33,551 | 🐛 499 | 🌐 Java | 📅 2026-08-19 <sub>![Java/Scala][language-java-scala]</sub> - Distributed event streaming platform for high-performance data pipelines and applications.
-* [Apache Flink](https://github.com/apache/flink) ⭐ 26,272 | 🐛 377 | 🌐 Java | 📅 2026-08-19 <sub>![Java][language-java]</sub> - Distributed engine for stateful computation over bounded and unbounded data streams.
-* [NSQ](https://github.com/nsqio/nsq) ⭐ 25,771 | 🐛 77 | 🌐 Go | 📅 2026-08-11 <sub>![Go][language-go]</sub> - Real-time distributed messaging platform designed to operate at scale.
-* [Apache RocketMQ](https://github.com/apache/rocketmq) ⭐ 22,560 | 🐛 566 | 🌐 Java | 📅 2026-08-19 <sub>![Java][language-java]</sub> - Cloud-native messaging and streaming platform for event-driven applications.
-* [Apache Pulsar](https://github.com/apache/pulsar) ⭐ 15,310 | 🐛 1,725 | 🌐 Java | 📅 2026-08-19 <sub>![Java][language-java]</sub> - Distributed pub-sub messaging and event streaming platform.
-* [Redpanda](https://github.com/redpanda-data/redpanda) ⭐ 12,463 | 🐛 629 | 🌐 C++ | 📅 2026-08-19 <sub>![C++][language-cpp]</sub> - Kafka API-compatible streaming data platform without ZooKeeper or a JVM.
-* [AutoMQ](https://github.com/AutoMQ/automq) ⭐ 10,520 | 🐛 69 | 🌐 Java | 📅 2026-08-19 <sub>![Java/Scala][language-java-scala]</sub> - Diskless Kafka-compatible streaming platform that stores durable data in object storage.
-* [RisingWave](https://github.com/risingwavelabs/risingwave) ⭐ 9,271 | 🐛 1,589 | 🌐 Rust | 📅 2026-08-19 <sub>![Rust][language-rust]</sub> - PostgreSQL-compatible streaming database for event-driven applications, real-time ETL, and continuous analytics.
-* [Aeron](https://github.com/aeron-io/aeron) ⭐ 8,806 | 🐛 23 | 🌐 Java | 📅 2026-08-19 <sub>![Java/C++][language-java-cpp]</sub> - Reliable UDP unicast, multicast, and IPC message transport.
-* [Apache Storm](https://github.com/apache/storm) ⭐ 6,698 | 🐛 49 | 🌐 Java | 📅 2026-08-19 <sub>![Java][language-java]</sub> - Distributed real-time computation system for reliably processing unbounded streams of data.
-* [Fluvio](https://github.com/fluvio-community/fluvio) ⭐ 5,242 | 🐛 140 | 🌐 Rust | 📅 2026-08-11 <sub>![Rust/WASM][language-rust-wasm]</sub> - Composable, stateful data streaming system with programmable in-line computation.
-* [Arroyo](https://github.com/ArroyoSystems/arroyo) ⭐ 5,005 | 🐛 120 | 🌐 Rust | 📅 2026-08-11 <sub>![Rust][language-rust]</sub> - Distributed stream processing engine for stateful SQL computations over unbounded data.
+* [Apache Spark Streaming](https://github.com/apache/spark) ⭐ 43,842 | 🐛 484 | 🌐 Scala | 📅 2026-08-20 <sub>![Scala/Java/Python/R][language-scala-java-python-r]</sub> - Scalable, fault-tolerant stream processing on Apache Spark.
+* [Apache Kafka](https://github.com/apache/kafka) ⭐ 33,569 | 🐛 506 | 🌐 Java | 📅 2026-08-20 <sub>![Java/Scala][language-java-scala]</sub> - Distributed event streaming platform for high-performance data pipelines and applications.
+* [Apache Flink](https://github.com/apache/flink) ⭐ 26,274 | 🐛 378 | 🌐 Java | 📅 2026-08-20 <sub>![Java][language-java]</sub> - Distributed engine for stateful computation over bounded and unbounded data streams.
+* [NSQ](https://github.com/nsqio/nsq) ⭐ 25,772 | 🐛 77 | 🌐 Go | 📅 2026-08-11 <sub>![Go][language-go]</sub> - Real-time distributed messaging platform designed to operate at scale.
+* [Apache RocketMQ](https://github.com/apache/rocketmq) ⭐ 22,560 | 🐛 565 | 🌐 Java | 📅 2026-08-20 <sub>![Java][language-java]</sub> - Cloud-native messaging and streaming platform for event-driven applications.
+* [Apache Pulsar](https://github.com/apache/pulsar) ⭐ 15,310 | 🐛 1,730 | 🌐 Java | 📅 2026-08-20 <sub>![Java][language-java]</sub> - Distributed pub-sub messaging and event streaming platform.
+* [Redpanda](https://github.com/redpanda-data/redpanda) ⭐ 12,463 | 🐛 616 | 🌐 C++ | 📅 2026-08-20 <sub>![C++][language-cpp]</sub> - Kafka API-compatible streaming data platform without ZooKeeper or a JVM.
+* [AutoMQ](https://github.com/AutoMQ/automq) ⭐ 10,530 | 🐛 72 | 🌐 Java | 📅 2026-08-20 <sub>![Java/Scala][language-java-scala]</sub> - Diskless Kafka-compatible streaming platform that stores durable data in object storage.
+* [RisingWave](https://github.com/risingwavelabs/risingwave) ⭐ 9,274 | 🐛 1,592 | 🌐 Rust | 📅 2026-08-20 <sub>![Rust][language-rust]</sub> - PostgreSQL-compatible streaming database for event-driven applications, real-time ETL, and continuous analytics.
+* [Aeron](https://github.com/aeron-io/aeron) ⭐ 8,808 | 🐛 23 | 🌐 Java | 📅 2026-08-20 <sub>![Java/C++][language-java-cpp]</sub> - Reliable UDP unicast, multicast, and IPC message transport.
+* [Apache Storm](https://github.com/apache/storm) ⭐ 6,698 | 🐛 49 | 🌐 Java | 📅 2026-08-20 <sub>![Java][language-java]</sub> - Distributed real-time computation system for reliably processing unbounded streams of data.
+* [Fluvio](https://github.com/fluvio-community/fluvio) ⭐ 5,244 | 🐛 140 | 🌐 Rust | 📅 2026-08-11 <sub>![Rust/WASM][language-rust-wasm]</sub> - Composable, stateful data streaming system with programmable in-line computation.
+* [Arroyo](https://github.com/ArroyoSystems/arroyo) ⭐ 5,008 | 🐛 121 | 🌐 Rust | 📅 2026-08-20 <sub>![Rust][language-rust]</sub> - Distributed stream processing engine for stateful SQL computations over unbounded data.
 * [Apache Heron](https://github.com/apache/incubator-heron) ⚠️ Archived <sub>![Archived][archived-badge]</sub> <sub>![Java][language-java]</sub> - Retired distributed, fault-tolerant stream processing engine originally developed at Twitter.
-* [Numaflow](https://github.com/numaproj/numaflow) ⭐ 2,825 | 🐛 286 | 🌐 Rust | 📅 2026-08-19 <sub>![Rust/Go/TypeScript][language-rust-go-typescript]</sub> - Kubernetes-native, language-agnostic platform for scalable event-driven applications.
+* [Numaflow](https://github.com/numaproj/numaflow) ⭐ 2,825 | 🐛 285 | 🌐 Rust | 📅 2026-08-19 <sub>![Rust/Go/TypeScript][language-rust-go-typescript]</sub> - Kubernetes-native, language-agnostic platform for scalable event-driven applications.
 * [PipelineDB](https://github.com/pipelinedb/pipelinedb) ⭐ 2,662 | 🐛 133 | 🌐 C | 📅 2022-02-20 <sub>![Archived][archived-badge]</sub> <sub>![C][language-c]</sub> - Unmaintained PostgreSQL extension for continuous SQL aggregation over time-series data.
 * [NATS Streaming](https://github.com/nats-io/nats-streaming-server) ⚠️ Archived <sub>![Archived][archived-badge]</sub> <sub>![Go][language-go]</sub> - Deprecated disk-backed messaging system superseded by NATS JetStream.
 * [Proton](https://github.com/timeplus-io/proton) ⭐ 2,241 | 🐛 80 | 🌐 C++ | 📅 2026-08-13 <sub>![C++][language-cpp]</sub> - Unified streaming and historical data analytics database powered by ClickHouse.
 * [Onyx](https://github.com/onyx-platform/onyx) ⚠️ Archived <sub>![Archived][archived-badge]</sub> <sub>![Clojure][language-clojure]</sub> - Distributed, masterless, fault-tolerant data processing platform.
-* [Bytewax](https://github.com/bytewax/bytewax) ⭐ 2,044 | 🐛 37 | 🌐 Python | 📅 2026-06-20 <sub>![Python/Rust][language-python-rust]</sub> - Community-maintained Python framework with a Rust-based distributed engine for stateful stream processing.
+* [Bytewax](https://github.com/bytewax/bytewax) ⭐ 2,045 | 🐛 37 | 🌐 Python | 📅 2026-06-20 <sub>![Python/Rust][language-python-rust]</sub> - Community-maintained Python framework with a Rust-based distributed engine for stateful stream processing.
 * [LogDevice](https://github.com/facebookarchive/LogDevice) ⚠️ Archived <sub>![Archived][archived-badge]</sub> <sub>![C++][language-cpp]</sub> - Facebook's archived distributed storage system for sequential data.
-* [eKuiper](https://github.com/lf-edge/ekuiper) ⭐ 1,729 | 🐛 48 | 🌐 Go | 📅 2026-08-19 <sub>![Go][language-go]</sub> - Lightweight data stream processing engine for resource-constrained IoT edge devices.
+* [eKuiper](https://github.com/lf-edge/ekuiper) ⭐ 1,729 | 🐛 49 | 🌐 Go | 📅 2026-08-19 <sub>![Go][language-go]</sub> - Lightweight data stream processing engine for resource-constrained IoT edge devices.
 * [Siddhi](https://github.com/siddhi-io/siddhi) ⭐ 1,589 | 🐛 125 | 🌐 Java | 📅 2026-05-05 <sub>![Java][language-java]</sub> - Streaming SQL and complex event processing engine.
 * [Wally](https://github.com/WallarooLabs/wally) ⭐ 1,485 | 🐛 348 | 🌐 Pony | 📅 2021-04-06 <sub>![Archived][archived-badge]</sub> <sub>![Pony][language-pony]</sub> - Distributed stream processing framework formerly named Wallaroo.
 * [Mantis](https://github.com/Netflix/mantis) ⭐ 1,470 | 🐛 92 | 🌐 Java | 📅 2026-08-17 <sub>![Java][language-java]</sub> - Netflix platform for building real-time, operations-focused stream processing applications.
@@ -51,25 +51,25 @@ A curated list of awesome [streaming (stream processing)](http://radar.oreilly.c
 * [AthenaX](https://github.com/uber-archive/AthenaX) ⚠️ Archived <sub>![Archived][archived-badge]</sub> <sub>![Java][language-java]</sub> - Uber's retired SQL-based streaming analytics platform.
 * [Hazelcast Jet](https://github.com/hazelcast/hazelcast-jet) ⚠️ Archived <sub>![Archived][archived-badge]</sub> <sub>![Java][language-java]</sub> - Stream and batch processing engine whose development moved into Hazelcast Platform.
 * [Esper](https://github.com/espertechinc/esper) ⭐ 875 | 🐛 16 | 🌐 Java | 📅 2024-04-26 <sub>![Archived][archived-badge]</sub> <sub>![Java][language-java]</sub> - Complex event processing, Streaming SQL, and event series analysis engine.
-* [Apache Samza](https://github.com/apache/samza) ⭐ 846 | 🐛 44 | 🌐 Java | 📅 2026-05-15 <sub>![Java/Scala][language-java-scala]</sub> - Distributed stream processing framework built on Apache Kafka with standalone and YARN deployment options.
+* [Apache Samza](https://github.com/apache/samza) ⭐ 846 | 🐛 43 | 🌐 Java | 📅 2026-08-20 <sub>![Java/Scala][language-java-scala]</sub> - Distributed stream processing framework built on Apache Kafka with standalone and YARN deployment options.
 * [Gazette](https://github.com/gazette/core) ⭐ 795 | 🐛 21 | 🌐 Go | 📅 2026-07-25 <sub>![Go][language-go]</sub> - Cloud-storage-backed streaming infrastructure that combines SQL, batch, and millisecond-latency stream processing.
 * [Gearpump](https://github.com/gearpump/gearpump) ⭐ 755 | 🐛 2 | 🌐 Scala | 📅 2026-08-18 <sub>![Scala][language-scala]</sub> - Lightweight real-time distributed streaming engine built on Akka.
-* [Apache StreamPipes](https://github.com/apache/streampipes) ⭐ 737 | 🐛 67 | 🌐 Java | 📅 2026-08-19 <sub>![Java/Python/TypeScript][language-java-python-typescript]</sub> - Self-service industrial IoT platform for connecting, analyzing, and exploring data streams.
-* [HStreamDB](https://github.com/hstreamdb/hstream) ⭐ 721 | 🐛 11 | 🌐 Haskell | 📅 2024-12-26 <sub>![Haskell][language-haskell]</sub> - Cloud-native streaming database for IoT data storage and real-time processing.
+* [Apache StreamPipes](https://github.com/apache/streampipes) ⭐ 737 | 🐛 62 | 🌐 Java | 📅 2026-08-20 <sub>![Java/Python/TypeScript][language-java-python-typescript]</sub> - Self-service industrial IoT platform for connecting, analyzing, and exploring data streams.
+* [HStreamDB](https://github.com/hstreamdb/hstream) ⭐ 722 | 🐛 11 | 🌐 Haskell | 📅 2024-12-26 <sub>![Haskell][language-haskell]</sub> - Cloud-native streaming database for IoT data storage and real-time processing.
 * [Apache Apex](https://github.com/apache/apex-core) ⚠️ Archived <sub>![Archived][archived-badge]</sub> <sub>![Java][language-java]</sub> - Unified platform for big data stream and batch processing.
-* [ksqlDB](https://github.com/confluentinc/ksql) ⭐ 314 | 🐛 1,320 | 🌐 Java | 📅 2026-08-19 <sub>![Java][language-java]</sub> - Source-available database purpose-built for stream processing applications.
+* [ksqlDB](https://github.com/confluentinc/ksql) ⭐ 314 | 🐛 1,321 | 🌐 Java | 📅 2026-08-20 <sub>![Java][language-java]</sub> - Source-available database purpose-built for stream processing applications.
 * [Tigon](https://github.com/cdapio/tigon) ⚠️ Archived <sub>![Archived][archived-badge]</sub> <sub>![C++/Java][language-cpp-java]</sub> - High-throughput real-time stream processing framework built on Hadoop and HBase.
 * [Squall](https://github.com/epfldata/squall) ⭐ 274 | 🐛 3 | 🌐 Java | 📅 2017-05-18 <sub>![Archived][archived-badge]</sub> <sub>![Java][language-java]</sub> - Online SQL query processing engine built on Apache Storm.
 * [SensorBee](https://github.com/sensorbee/sensorbee) ⭐ 231 | 🐛 39 | 🌐 Go | 📅 2019-11-04 <sub>![Archived][archived-badge]</sub> <sub>![Go][language-go]</sub> - Discontinued lightweight stream processing engine for IoT.
-* [Wingfoil](https://github.com/wingfoil-io/wingfoil) ⭐ 209 | 🐛 46 | 🌐 Rust | 📅 2026-08-18 <sub>![Rust/Python/TypeScript][language-rust-python-typescript]</sub> - Graph-based stream processing engine for latency-critical systems.
+* [Wingfoil](https://github.com/wingfoil-io/wingfoil) ⭐ 210 | 🐛 47 | 🌐 Rust | 📅 2026-08-18 <sub>![Rust/Python/TypeScript][language-rust-python-typescript]</sub> - Graph-based stream processing engine for latency-critical systems.
 * [mupd8 (Muppet)](https://github.com/walmartlabs/mupd8) ⚠️ Archived <sub>![Archived][archived-badge]</sub> <sub>![Scala/Java][language-scala-java]</sub> - MapReduce-style framework for processing fast-moving data streams.
 * [hailstorm](https://github.com/hailstorm-hs/hailstorm) ⭐ 94 | 🐛 1 | 🌐 Haskell | 📅 2014-06-11 <sub>![Archived][archived-badge]</sub> <sub>![Haskell][language-haskell]</sub> - Distributed stream processing with exactly-once semantics based on Storm.
-* [NebulaStream](https://github.com/nebulastream/nebulastream) ⭐ 93 | 🐛 252 | 🌐 C++ | 📅 2026-08-19 <sub>![C++][language-cpp]</sub> - Data management system for cloud-edge-sensor environments.
+* [NebulaStream](https://github.com/nebulastream/nebulastream) ⭐ 93 | 🐛 254 | 🌐 C++ | 📅 2026-08-20 <sub>![C++][language-cpp]</sub> - Data management system for cloud-edge-sensor environments.
 * [LightSaber](https://github.com/lsds/LightSaber) ⭐ 74 | 🐛 0 | 🌐 C++ | 📅 2021-10-20 <sub>![Archived][archived-badge]</sub> <sub>![C++][language-cpp]</sub> - Multi-core stream processing engine using code generation for window aggregation.
 * [Scramjet Cloud Platform](https://github.com/scramjetorg/transform-hub) ⭐ 71 | 🐛 2 | 🌐 TypeScript | 📅 2026-08-09 <sub>![TypeScript/Python][language-typescript-python]</sub> - Distributed runtime for running and managing data processing programs on edge, server, and cloud infrastructure.
 * [SABER](https://github.com/lsds/Saber) ⭐ 44 | 🐛 10 | 🌐 Java | 📅 2022-11-16 <sub>![Archived][archived-badge]</sub> <sub>![Java/C][language-java-c]</sub> - Window-based hybrid CPU/GPU stream processing engine.
 * [S4](https://github.com/apache/incubator-retired-s4) ⚠️ Archived <sub>![Archived][archived-badge]</sub> <sub>![Java][language-java]</sub> - Retired distributed platform for processing continuous unbounded data streams.
-* [LaminarDB](https://github.com/laminardb/laminardb) ⭐ 42 | 🐛 26 | 🌐 Rust | 📅 2026-08-19 <sub>![Rust][language-rust]</sub> - Embeddable streaming SQL engine built on Apache Arrow and DataFusion.
+* [LaminarDB](https://github.com/laminardb/laminardb) ⭐ 42 | 🐛 26 | 🌐 Rust | 📅 2026-08-20 <sub>![Rust][language-rust]</sub> - Embeddable streaming SQL engine built on Apache Arrow and DataFusion.
 * [Maki Nage](https://github.com/maki-nage/makinage) ⭐ 42 | 🐛 8 | 🌐 Python | 📅 2022-04-24 <sub>![Archived][archived-badge]</sub> <sub>![Python][language-python]</sub> - Stream processing framework for data scientists based on Kafka and ReactiveX.
 * [SPQR](https://github.com/ottogroup/SPQR) ⚠️ Archived <sub>![Archived][archived-badge]</sub> <sub>![Java][language-java]</sub> - Dynamic framework for processing high-volume data streams through pipelines.
 * [Teknek](https://github.com/edwardcapriolo/teknek-core) ⭐ 10 | 🐛 1 | 🌐 Java | 📅 2015-12-15 <sub>![Archived][archived-badge]</sub> <sub>![Java][language-java]</sub> - Stream processing platform with the interactive Stream Operator Language shell.
@@ -78,23 +78,23 @@ A curated list of awesome [streaming (stream processing)](http://radar.oreilly.c
 
 ### Libraries, SDKs, and Programming Models
 
-* [MediaPipe](https://github.com/google-ai-edge/mediapipe) ⭐ 36,664 | 🐛 543 | 🌐 C++ | 📅 2026-08-18 <sub>![C++/Python/Java/TypeScript][language-cpp-python-java-typescript]</sub> - Cross-platform, customizable ML solutions for live and streaming media.
-* [Apache Kafka Streams](https://github.com/apache/kafka) ⭐ 33,551 | 🐛 499 | 🌐 Java | 📅 2026-08-19 <sub>![Java][language-java]</sub> - Stream processing library included with Apache Kafka.
-* [Akka](https://github.com/akka/akka-core) ⭐ 13,276 | 🐛 909 | 🌐 Scala | 📅 2026-08-19 <sub>![Scala/Java][language-scala-java]</sub> - Toolkit and runtime for concurrent, distributed, resilient applications on the JVM.
-* [Akka Streams](https://github.com/akka/akka-core) ⭐ 13,276 | 🐛 909 | 🌐 Scala | 📅 2026-08-19 <sub>![Scala/Java][language-scala-java]</sub> - Reactive Streams implementation built on Akka actors.
-* [Apache Beam](https://github.com/apache/beam) ⭐ 8,646 | 🐛 3,972 | 🌐 Java | 📅 2026-08-19 <sub>![Java/Python/Go][language-java-python-go]</sub> - Unified programming model and language-specific SDKs for batch and streaming data processing.
+* [MediaPipe](https://github.com/google-ai-edge/mediapipe) ⭐ 36,673 | 🐛 541 | 🌐 C++ | 📅 2026-08-20 <sub>![C++/Python/Java/TypeScript][language-cpp-python-java-typescript]</sub> - Cross-platform, customizable ML solutions for live and streaming media.
+* [Apache Kafka Streams](https://github.com/apache/kafka) ⭐ 33,569 | 🐛 506 | 🌐 Java | 📅 2026-08-20 <sub>![Java][language-java]</sub> - Stream processing library included with Apache Kafka.
+* [Akka](https://github.com/akka/akka-core) ⭐ 13,277 | 🐛 905 | 🌐 Scala | 📅 2026-08-20 <sub>![Scala/Java][language-scala-java]</sub> - Toolkit and runtime for concurrent, distributed, resilient applications on the JVM.
+* [Akka Streams](https://github.com/akka/akka-core) ⭐ 13,277 | 🐛 905 | 🌐 Scala | 📅 2026-08-20 <sub>![Scala/Java][language-scala-java]</sub> - Reactive Streams implementation built on Akka actors.
+* [Apache Beam](https://github.com/apache/beam) ⭐ 8,647 | 🐛 3,973 | 🌐 Java | 📅 2026-08-20 <sub>![Java/Python/Go][language-java-python-go]</sub> - Unified programming model and language-specific SDKs for batch and streaming data processing.
 * [Faust](https://github.com/robinhood/faust) ⭐ 6,823 | 🐛 279 | 🌐 Python | 📅 2024-07-27 <sub>![Archived][archived-badge]</sub> <sub>![Python][language-python]</sub> - Deprecated Python stream processing library inspired by Kafka Streams.
-* [River](https://github.com/online-ml/river) ⭐ 5,918 | 🐛 70 | 🌐 Python | 📅 2026-08-12 <sub>![Python][language-python]</sub> - Online machine learning library for Python.
-* [FastStream](https://github.com/ag2ai/faststream) ⭐ 5,307 | 🐛 102 | 🌐 Python | 📅 2026-08-18 <sub>![Python][language-python]</sub> - Asynchronous framework for building event-driven applications with Kafka, RabbitMQ, NATS, Redis, and MQTT.
-* [FS2](https://github.com/typelevel/fs2) ⭐ 2,449 | 🐛 152 | 🌐 Scala | 📅 2026-08-18 <sub>![Scala][language-scala]</sub> - Compositional streaming I/O library for Scala.
+* [River](https://github.com/online-ml/river) ⭐ 5,920 | 🐛 70 | 🌐 Python | 📅 2026-08-20 <sub>![Python][language-python]</sub> - Online machine learning library for Python.
+* [FastStream](https://github.com/ag2ai/faststream) ⭐ 5,309 | 🐛 97 | 🌐 Python | 📅 2026-08-20 <sub>![Python][language-python]</sub> - Asynchronous framework for building event-driven applications with Kafka, RabbitMQ, NATS, Redis, and MQTT.
+* [FS2](https://github.com/typelevel/fs2) ⭐ 2,450 | 🐛 152 | 🌐 Scala | 📅 2026-08-18 <sub>![Scala][language-scala]</sub> - Compositional streaming I/O library for Scala.
 * [Summingbird](https://github.com/twitter/summingbird) ⚠️ Archived <sub>![Archived][archived-badge]</sub> <sub>![Scala][language-scala]</sub> - Retired library for expressing streaming MapReduce computations over Storm and Scalding.
 * [Monix](https://github.com/monix/monix) ⭐ 1,931 | 🐛 87 | 🌐 Scala | 📅 2026-06-02 <sub>![Scala][language-scala]</sub> - High-performance Scala and Scala.js library for asynchronous and event-based programs.
 * [Pulsar](https://github.com/quantmind/pulsar) ⚠️ Archived <sub>![Archived][archived-badge]</sub> <sub>![Python][language-python]</sub> - Actor-based event-driven concurrency framework for Python.
-* [Apache Pekko](https://github.com/apache/pekko) ⭐ 1,627 | 🐛 163 | 🌐 Scala | 📅 2026-08-18 <sub>![Scala/Java][language-scala-java]</sub> - Open-source toolkit for concurrent, distributed, resilient applications, forked from Akka 2.6.
-* [Quix Streams](https://github.com/quixio/quix-streams) ⭐ 1,567 | 🐛 29 | 🌐 Python | 📅 2026-08-14 <sub>![Python][language-python]</sub> - Python framework for real-time data engineering, analytics, and machine learning on Apache Kafka.
+* [Apache Pekko](https://github.com/apache/pekko) ⭐ 1,626 | 🐛 163 | 🌐 Scala | 📅 2026-08-20 <sub>![Scala/Java][language-scala-java]</sub> - Open-source toolkit for concurrent, distributed, resilient applications, forked from Akka 2.6.
+* [Quix Streams](https://github.com/quixio/quix-streams) ⭐ 1,568 | 🐛 29 | 🌐 Python | 📅 2026-08-14 <sub>![Python][language-python]</sub> - Python framework for real-time data engineering, analytics, and machine learning on Apache Kafka.
 * [Streamparse](https://github.com/pystorm/streamparse) ⭐ 1,505 | 🐛 61 | 🌐 Python | 📅 2026-04-22 <sub>![Archived][archived-badge]</sub> <sub>![Python][language-python]</sub> - Python API, command-line tools, and topology DSL for Apache Storm.
 * [Streamz](https://github.com/python-streamz/streamz) ⭐ 1,303 | 🐛 121 | 🌐 Python | 📅 2026-04-07 <sub>![Python][language-python]</sub> - Library for building continuous data pipelines with branching, joining, flow control, and back pressure.
-* [Apache StormCrawler](https://github.com/apache/stormcrawler) ⭐ 992 | 🐛 20 | 🌐 Java | 📅 2026-08-17 <sub>![Java][language-java]</sub> - Scalable web crawler SDK based on Apache Storm.
+* [Apache StormCrawler](https://github.com/apache/stormcrawler) ⭐ 992 | 🐛 21 | 🌐 Java | 📅 2026-08-17 <sub>![Java][language-java]</sub> - Scalable web crawler SDK based on Apache Storm.
 * [DataSketches](https://github.com/apache/datasketches-java) ⭐ 959 | 🐛 10 | 🌐 Java | 📅 2026-08-13 <sub>![Java][language-java]</sub> - Apache library of stochastic streaming algorithms known as sketches.
 * [Jubatus](https://github.com/jubatus/jubatus) ⭐ 707 | 🐛 4 | 🌐 C++ | 📅 2019-05-16 <sub>![Archived][archived-badge]</sub> <sub>![C++][language-cpp]</sub> - Distributed processing framework and library for online machine learning.
 * [Streamiz.Kafka.Net](https://github.com/LGouellec/streamiz) ⭐ 543 | 🐛 29 | 🌐 C# | 📅 2026-07-23 <sub>![C#][language-csharp]</sub> - .NET stream processing library for Apache Kafka.
@@ -107,7 +107,7 @@ A curated list of awesome [streaming (stream processing)](http://radar.oreilly.c
 * [Swave](https://github.com/sirthias/swave) ⭐ 173 | 🐛 8 | 🌐 Scala | 📅 2018-06-18 <sub>![Archived][archived-badge]</sub> <sub>![Scala][language-scala]</sub> - Lightweight Reactive Streams infrastructure toolkit for Scala.
 * [Numalogic](https://github.com/numaproj/numalogic) ⭐ 172 | 🐛 52 | 🌐 Python | 📅 2024-10-15 <sub>![Python][language-python]</sub> - Collection of machine learning models and tools for anomaly detection and forecasting on operational time-series data.
 * [Daggy](https://github.com/synacker/daggy) ⭐ 165 | 🐛 7 | 🌐 C++ | 📅 2026-07-26 <sub>![C++][language-cpp]</sub> - Utility and developer library for aggregating and capturing data streams.
-* [CapyMOA](https://github.com/adaptive-machine-learning/CapyMOA) ⭐ 143 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2026-08-17 <sub>![Python/Java][language-python-java]</sub> - Machine learning library for data streams with a Python API and MOA backend.
+* [CapyMOA](https://github.com/adaptive-machine-learning/CapyMOA) ⭐ 143 | 🐛 5 | 🌐 Jupyter Notebook | 📅 2026-08-20 <sub>![Python/Java][language-python-java]</sub> - Machine learning library for data streams with a Python API and MOA backend.
 * [Yurita](https://github.com/paypal/yurita) ⚠️ Archived <sub>![Archived][archived-badge]</sub> <sub>![Scala][language-scala]</sub> - PayPal anomaly detection framework built on Spark Structured Streaming.
 * [samza-luwak](https://github.com/romseygeek/samza-luwak) ⭐ 100 | 🐛 0 | 🌐 Java | 📅 2014-11-10 <sub>![Archived][archived-badge]</sub> <sub>![Java][language-java]</sub> - Integration of Apache Samza with the Luwak stored-query engine for full-text stream search.
 * [WindFlow](https://github.com/ParaGroup/WindFlow) ⭐ 88 | 🐛 11 | 🌐 C++ | 📅 2026-04-25 <sub>![C++][language-cpp]</sub> - Data stream processing parallel library for multi-core CPUs and GPUs.
@@ -120,26 +120,26 @@ A curated list of awesome [streaming (stream processing)](http://radar.oreilly.c
 
 ### Data Integration and Pipelines
 
-* [Pathway](https://github.com/pathwaycom/pathway) ⭐ 62,423 | 🐛 35 | 🌐 Python | 📅 2026-08-19 <sub>![Python/Rust][language-python-rust]</sub> - Python ETL framework for stream processing, real-time analytics, and AI data pipelines.
-* [CocoIndex](https://github.com/cocoindex-io/cocoindex) ⭐ 11,353 | 🐛 71 | 🌐 Rust | 📅 2026-08-18 <sub>![Rust/Python][language-rust-python]</sub> - Incremental data transformation engine for continuously updated AI and agent workloads.
-* [Redpanda Connect](https://github.com/redpanda-data/connect) ⭐ 8,732 | 🐛 324 | 🌐 Go | 📅 2026-08-19 <sub>![Go][language-go]</sub> - Declarative stream processor for moving, enriching, transforming, and filtering data between sources and sinks.
-* [RudderStack](https://github.com/rudderlabs/rudder-server) ⭐ 4,474 | 🐛 49 | 🌐 Go | 📅 2026-08-19 <sub>![Go][language-go]</sub> - Developer-focused customer data platform for event streaming and cloud-to-warehouse data pipelines.
-* [inGestr](https://github.com/bruin-data/ingestr) ⭐ 3,848 | 🐛 15 | 🌐 Go | 📅 2026-08-19 <sub>![Go/Python][language-go-python]</sub> - Command-line application and Python SDK for copying data between databases, SaaS applications, and data warehouses.
-* [Databus](https://github.com/linkedin/databus) ⭐ 3,678 | 🐛 41 | 🌐 Java | 📅 2023-09-28 <sub>![Archived][archived-badge]</sub> <sub>![Java][language-java]</sub> - LinkedIn source-agnostic distributed change data capture system.
+* [Pathway](https://github.com/pathwaycom/pathway) ⭐ 62,416 | 🐛 35 | 🌐 Python | 📅 2026-08-20 <sub>![Python/Rust][language-python-rust]</sub> - Python ETL framework for stream processing, real-time analytics, and AI data pipelines.
+* [CocoIndex](https://github.com/cocoindex-io/cocoindex) ⭐ 11,370 | 🐛 71 | 🌐 Rust | 📅 2026-08-18 <sub>![Rust/Python][language-rust-python]</sub> - Incremental data transformation engine for continuously updated AI and agent workloads.
+* [Redpanda Connect](https://github.com/redpanda-data/connect) ⭐ 8,731 | 🐛 327 | 🌐 Go | 📅 2026-08-20 <sub>![Go][language-go]</sub> - Declarative stream processor for moving, enriching, transforming, and filtering data between sources and sinks.
+* [RudderStack](https://github.com/rudderlabs/rudder-server) ⭐ 4,475 | 🐛 50 | 🌐 Go | 📅 2026-08-20 <sub>![Go][language-go]</sub> - Developer-focused customer data platform for event streaming and cloud-to-warehouse data pipelines.
+* [inGestr](https://github.com/bruin-data/ingestr) ⭐ 3,850 | 🐛 15 | 🌐 Go | 📅 2026-08-19 <sub>![Go/Python][language-go-python]</sub> - Command-line application and Python SDK for copying data between databases, SaaS applications, and data warehouses.
+* [Databus](https://github.com/linkedin/databus) ⭐ 3,679 | 🐛 41 | 🌐 Java | 📅 2023-09-28 <sub>![Archived][archived-badge]</sub> <sub>![Java][language-java]</sub> - LinkedIn source-agnostic distributed change data capture system.
 * [Apache Flume](https://github.com/apache/logging-flume) ⭐ 2,566 | 🐛 79 | 🌐 Java | 📅 2026-08-01 <sub>![Java][language-java]</sub> - Distributed service for collecting, aggregating, and moving large amounts of log-like data.
-* [Bruin](https://github.com/bruin-data/bruin) ⭐ 1,670 | 🐛 33 | 🌐 Go | 📅 2026-08-19 <sub>![Go][language-go]</sub> - End-to-end data pipeline tool combining ingestion, SQL and Python transformations, and data quality checks.
-* [Brooklin](https://github.com/linkedin/Brooklin) ⭐ 963 | 🐛 36 | 🌐 Java | 📅 2026-08-19 <sub>![Java][language-java]</sub> - Distributed system for reliable nearline data streaming between heterogeneous systems at scale.
+* [Bruin](https://github.com/bruin-data/bruin) ⭐ 1,671 | 🐛 32 | 🌐 Go | 📅 2026-08-20 <sub>![Go][language-go]</sub> - End-to-end data pipeline tool combining ingestion, SQL and Python transformations, and data quality checks.
+* [Brooklin](https://github.com/linkedin/Brooklin) ⭐ 965 | 🐛 36 | 🌐 Java | 📅 2026-08-19 <sub>![Java][language-java]</sub> - Distributed system for reliable nearline data streaming between heterogeneous systems at scale.
 * [Camus](https://github.com/LinkedInAttic/camus) ⚠️ Archived <sub>![Archived][archived-badge]</sub> <sub>![Java][language-java]</sub> - LinkedIn's retired, previous-generation Kafka-to-HDFS pipeline.
 * [Suro](https://github.com/Netflix/suro) ⚠️ Archived <sub>![Archived][archived-badge]</sub> <sub>![Java][language-java]</sub> - Netflix data pipeline for collecting, aggregating, and dispatching application events.
-* [faucet-stream](https://github.com/faucet-hq/faucet-stream) ⭐ 7 | 🐛 15 | 🌐 Rust | 📅 2026-08-19 <sub>![Rust][language-rust]</sub> - Config-driven platform and embeddable library for ETL, CDC, and streaming data movement.
+* [faucet-stream](https://github.com/faucet-hq/faucet-stream) ⭐ 7 | 🐛 16 | 🌐 Rust | 📅 2026-08-20 <sub>![Rust][language-rust]</sub> - Config-driven platform and embeddable library for ETL, CDC, and streaming data movement.
 * [yasdb](https://github.com/JayJamieson/yasdb) ⭐ 3 | 🐛 0 | 🌐 Go | 📅 2026-08-13 <sub>![Go][language-go]</sub> - Durable Streams protocol server backed by SlateDB object storage, with offset-based catch-up reads and SSE or long-poll tailing.
 
 ### Applications and Tools
 
 * [StreamAlert](https://github.com/airbnb/streamalert) ⭐ 2,889 | 🐛 90 | 🌐 Python | 📅 2023-10-23 <sub>![Archived][archived-badge]</sub> <sub>![Python][language-python]</sub> - Airbnb serverless framework for real-time security log analysis and alerting.
-* [Zilla](https://github.com/aklivity/zilla) ⭐ 1,576 | 🐛 222 | 🌐 Java | 📅 2026-08-19 <sub>![Java][language-java]</sub> - Multi-protocol gateway for connecting applications, APIs, agents, and devices to event streams.
+* [Zilla](https://github.com/aklivity/zilla) ⭐ 1,637 | 🐛 221 | 🌐 Java | 📅 2026-08-20 <sub>![Java][language-java]</sub> - Multi-protocol gateway for connecting applications, APIs, agents, and devices to event streams.
 * [Turbine](https://github.com/Netflix/Turbine) ⚠️ Archived <sub>![Archived][archived-badge]</sub> <sub>![Java][language-java]</sub> - Netflix tool for aggregating Server-Sent Event JSON streams.
-* [Nussknacker](https://github.com/TouK/nussknacker) ⭐ 742 | 🐛 53 | 🌐 Scala | 📅 2026-08-19 <sub>![Scala][language-scala]</sub> - Visual tool for defining and running real-time decision algorithms.
+* [Nussknacker](https://github.com/TouK/nussknacker) ⭐ 743 | 🐛 52 | 🌐 Scala | 📅 2026-08-20 <sub>![Scala][language-scala]</sub> - Visual tool for defining and running real-time decision algorithms.
 * [Streamdal](https://github.com/streamdal/streamdal) ⚠️ Archived <sub>![Archived][archived-badge]</sub> <sub>![TypeScript][language-typescript]</sub> - Code-native data privacy controls for detecting PII in application data flows.
 * [Substation](https://github.com/brexhq/substation) ⭐ 403 | 🐛 3 | 🌐 Go | 📅 2026-01-20 <sub>![Go][language-go]</sub> - Toolkit for routing, normalizing, and enriching security event and audit logs.
 * [StreamFlow](https://github.com/lmco/streamflow) ⭐ 257 | 🐛 35 | 🌐 Java | 📅 2024-12-16 <sub>![Archived][archived-badge]</sub> <sub>![Java][language-java]</sub> - Tool for building and monitoring stream processing workflows.
@@ -147,7 +147,7 @@ A curated list of awesome [streaming (stream processing)](http://radar.oreilly.c
 * [beava](https://github.com/beava-dev/beava) ⭐ 138 | 🐛 38 | 🌐 Rust | 📅 2026-05-30 <sub>![Rust/Python][language-rust-python]</sub> - Single-binary feature server for querying fresh per-entity counters and aggregates without a message broker.
 * [straw](https://github.com/rwalk/straw) ⭐ 103 | 🐛 2 | 🌐 Python | 📅 2016-03-09 <sub>![Archived][archived-badge]</sub> <sub>![Python/Java][language-python-java]</sub> - Platform for real-time streaming search.
 * [StreamingBandit](https://github.com/Nth-iteration-labs/streamingbandit) ⭐ 85 | 🐛 4 | 🌐 Python | 📅 2025-09-04 <sub>![Python][language-python]</sub> - Web application for setting up and evaluating contextual multi-armed bandit experiments.
-* [Eventum](https://github.com/eventum-generator/eventum) ⭐ 61 | 🐛 4 | 🌐 Python | 📅 2026-08-18 <sub>![Python/TypeScript][language-python-typescript]</sub> - Data generation platform for producing synthetic event streams.
+* [Eventum](https://github.com/eventum-generator/eventum) ⭐ 63 | 🐛 9 | 🌐 Python | 📅 2026-08-20 <sub>![Python/TypeScript][language-python-typescript]</sub> - Data generation platform for producing synthetic event streams.
 * [javactrl-kafka](https://github.com/javactrl/javactrl-kafka) ⭐ 18 | 🐛 5 | 🌐 Java | 📅 2025-04-30 <sub>![Java][language-java]</sub> - Code-first distributed workflow engine for microservice orchestration and business process automation.
 
 ### Managed and Closed Source
@@ -251,4 +251,4 @@ Licensed under a [Creative Commons Attribution-ShareAlike 4.0 International Lice
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
