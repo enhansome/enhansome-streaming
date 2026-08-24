@@ -14,7 +14,7 @@
                 "archived": false,
                 "id": 17165658,
                 "language": "Scala",
-                "last_commit": "2026-08-24T09:08:09Z",
+                "last_commit": "2026-08-24T14:41:03Z",
                 "owner": "apache",
                 "repo": "spark",
                 "stars": 43867
@@ -29,10 +29,10 @@
                 "archived": false,
                 "id": 2211243,
                 "language": "Java",
-                "last_commit": "2026-08-24T13:59:00Z",
+                "last_commit": "2026-08-24T14:05:10Z",
                 "owner": "apache",
                 "repo": "kafka",
-                "stars": 33605
+                "stars": 33606
               }
             },
             {
@@ -44,7 +44,7 @@
                 "archived": false,
                 "id": 20587599,
                 "language": "Java",
-                "last_commit": "2026-08-24T13:51:56Z",
+                "last_commit": "2026-08-24T14:31:09Z",
                 "owner": "apache",
                 "repo": "flink",
                 "stars": 26288
@@ -107,7 +107,7 @@
                 "last_commit": "2026-08-22T00:45:06Z",
                 "owner": "redpanda-data",
                 "repo": "redpanda",
-                "stars": 12476
+                "stars": 12478
               }
             },
             {
@@ -134,7 +134,7 @@
                 "archived": false,
                 "id": 453068084,
                 "language": "Rust",
-                "last_commit": "2026-08-24T13:57:11Z",
+                "last_commit": "2026-08-24T14:14:57Z",
                 "owner": "risingwavelabs",
                 "repo": "risingwave",
                 "stars": 9284
@@ -674,7 +674,7 @@
                 "archived": false,
                 "id": 809730404,
                 "language": "C++",
-                "last_commit": "2026-08-24T13:38:30Z",
+                "last_commit": "2026-08-24T14:29:15Z",
                 "owner": "nebulastream",
                 "repo": "nebulastream",
                 "stars": 94
@@ -846,10 +846,10 @@
                 "archived": false,
                 "id": 2211243,
                 "language": "Java",
-                "last_commit": "2026-08-24T13:59:00Z",
+                "last_commit": "2026-08-24T14:05:10Z",
                 "owner": "apache",
                 "repo": "kafka",
-                "stars": 33605
+                "stars": 33606
               }
             },
             {
@@ -891,7 +891,7 @@
                 "archived": false,
                 "id": 50904245,
                 "language": "Java",
-                "last_commit": "2026-08-24T14:00:16Z",
+                "last_commit": "2026-08-24T14:40:03Z",
                 "owner": "apache",
                 "repo": "beam",
                 "stars": 8647
@@ -951,7 +951,7 @@
                 "archived": false,
                 "id": 8609125,
                 "language": "Scala",
-                "last_commit": "2026-08-24T04:22:09Z",
+                "last_commit": "2026-08-24T14:47:11Z",
                 "owner": "typelevel",
                 "repo": "fs2",
                 "stars": 2451
@@ -1453,7 +1453,7 @@
                 "archived": false,
                 "id": 54435102,
                 "language": "Go",
-                "last_commit": "2026-08-24T13:59:00Z",
+                "last_commit": "2026-08-24T14:07:57Z",
                 "owner": "redpanda-data",
                 "repo": "connect",
                 "stars": 8734
@@ -1468,7 +1468,7 @@
                 "archived": false,
                 "id": 197743848,
                 "language": "Go",
-                "last_commit": "2026-08-24T11:34:44Z",
+                "last_commit": "2026-08-24T14:08:03Z",
                 "owner": "rudderlabs",
                 "repo": "rudder-server",
                 "stars": 4477
@@ -1873,7 +1873,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:01:55.007Z",
+    "last_updated": "2026-08-24T14:49:50.240Z",
     "original_repository": "manuzhang/awesome-streaming",
     "original_repository_id": 28163761,
     "original_repository_sha": "3c0843af53e6efb5da334d89fe68aa2cd3162ba5",
