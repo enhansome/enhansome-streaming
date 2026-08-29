@@ -12,12 +12,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Apache Spark - A unified analytics engine for large-scale data processing",
+                "homepage": "https://spark.apache.org/",
                 "id": 17165658,
                 "language": "Scala",
-                "last_commit": "2026-08-28T23:11:17Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T00:45:28Z",
+                "open_issues": 497,
                 "owner": "apache",
                 "repo": "spark",
-                "stars": 43901
+                "stars": 43900,
+                "topics": [
+                  "big-data",
+                  "java",
+                  "jdbc",
+                  "python",
+                  "r",
+                  "scala",
+                  "spark",
+                  "sql"
+                ]
               },
               "first_seen": "2026-08-28T23:12:35.532Z"
             },
@@ -28,12 +42,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Apache Kafka - A distributed event streaming platform",
+                "homepage": "https://kafka.apache.org/",
                 "id": 2211243,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T22:41:09Z",
+                "open_issues": 516,
                 "owner": "apache",
                 "repo": "kafka",
-                "stars": 33639
+                "stars": 33638,
+                "topics": [
+                  "java",
+                  "kafka",
+                  "scala",
+                  "streaming"
+                ]
               },
               "first_seen": "2026-08-28T23:12:35.532Z"
             },
@@ -44,12 +68,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Apache Flink",
+                "homepage": "https://flink.apache.org/",
                 "id": 20587599,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T15:18:25Z",
+                "open_issues": 370,
                 "owner": "apache",
                 "repo": "flink",
-                "stars": 26302
+                "stars": 26301,
+                "topics": [
+                  "big-data",
+                  "flink",
+                  "java",
+                  "python",
+                  "scala",
+                  "sql"
+                ]
               },
               "first_seen": "2026-08-28T23:12:35.532Z"
             },
@@ -60,12 +96,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A realtime distributed messaging platform",
+                "homepage": "https://nsq.io",
                 "id": 4307108,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-08-11T18:19:49Z",
+                "open_issues": 77,
                 "owner": "nsqio",
                 "repo": "nsq",
-                "stars": 25775
+                "stars": 25775,
+                "topics": [
+                  "distributed-systems",
+                  "go",
+                  "message-queue",
+                  "messaging",
+                  "nsq",
+                  "queue"
+                ]
               },
               "first_seen": "2026-08-28T23:12:35.532Z"
             },
@@ -76,12 +124,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Apache RocketMQ is a cloud native messaging and streaming platform, making it simple to build event-driven applications.",
+                "homepage": "https://rocketmq.apache.org/",
                 "id": 75164823,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-26T07:12:47Z",
+                "open_issues": 576,
                 "owner": "apache",
                 "repo": "rocketmq",
-                "stars": 22571
+                "stars": 22571,
+                "topics": [
+                  "cloud-native",
+                  "eventing",
+                  "hacktoberfest",
+                  "java",
+                  "messaging",
+                  "rocketmq",
+                  "streaming"
+                ]
               },
               "first_seen": "2026-08-28T23:12:35.532Z"
             },
@@ -92,12 +153,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Apache Pulsar - distributed pub-sub messaging system",
+                "homepage": "https://pulsar.apache.org/",
                 "id": 62117812,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T15:54:49Z",
+                "open_issues": 1731,
                 "owner": "apache",
                 "repo": "pulsar",
-                "stars": 15316
+                "stars": 15316,
+                "topics": [
+                  "event-streaming",
+                  "messaging",
+                  "pubsub",
+                  "pulsar",
+                  "queuing",
+                  "streaming"
+                ]
               },
               "first_seen": "2026-08-28T23:12:35.532Z"
             },
@@ -108,12 +181,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Redpanda is a streaming data platform for developers. Kafka API compatible. 10x faster. No ZooKeeper. No JVM!",
+                "homepage": "https://redpanda.com",
                 "id": 309512982,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2026-08-22T00:45:06Z",
+                "open_issues": 546,
                 "owner": "redpanda-data",
                 "repo": "redpanda",
-                "stars": 12497
+                "stars": 12497,
+                "topics": [
+                  "containers",
+                  "cpp",
+                  "event-driven",
+                  "go",
+                  "kafka",
+                  "kubernetes",
+                  "microservices",
+                  "realtime",
+                  "redpanda",
+                  "seastar",
+                  "storage-engine",
+                  "stream-processing",
+                  "streaming"
+                ]
               },
               "first_seen": "2026-08-28T23:12:35.532Z"
             },
@@ -124,12 +216,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Diskless Kafka® on S3. 10x Cost-Effective. No Cross-AZ Traffic Cost. Autoscale in seconds. Single-digit ms latency. Multi-AZ Availability.",
+                "homepage": "https://www.automq.com",
                 "id": 679601811,
                 "language": "Java",
-                "last_commit": "2026-08-27T23:04:42Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T03:08:33Z",
+                "open_issues": 54,
                 "owner": "AutoMQ",
                 "repo": "automq",
-                "stars": 10584
+                "stars": 10584,
+                "topics": [
+                  "automq",
+                  "diskless",
+                  "kafka",
+                  "serverless"
+                ]
               },
               "first_seen": "2026-08-28T23:12:35.532Z"
             },
@@ -140,12 +242,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Event streaming platform for agentic AI. Continuously ingest, transform, and serve event streams in real time, at scale.",
+                "homepage": "https://go.risingwave.com/slack",
                 "id": 453068084,
                 "language": "Rust",
-                "last_commit": "2026-08-28T20:32:46Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T04:12:16Z",
+                "open_issues": 1622,
                 "owner": "risingwavelabs",
                 "repo": "risingwave",
-                "stars": 9291
+                "stars": 9291,
+                "topics": [
+                  "apache-iceberg",
+                  "data-engineering",
+                  "database",
+                  "etl-pipeline",
+                  "event-streaming",
+                  "kafka",
+                  "materialized-view",
+                  "postgresql",
+                  "rust",
+                  "stream-processing",
+                  "webhook"
+                ]
               },
               "first_seen": "2026-08-28T23:12:35.532Z"
             },
@@ -156,12 +275,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Efficient reliable UDP unicast, UDP multicast, and IPC message transport",
+                "homepage": "https://aeron.io",
                 "id": 16621659,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T15:56:29Z",
+                "open_issues": 26,
                 "owner": "aeron-io",
                 "repo": "aeron",
-                "stars": 8824
+                "stars": 8824,
+                "topics": [
+                  "c",
+                  "c-plus-plus",
+                  "ipc",
+                  "java",
+                  "messaging",
+                  "multicast-streams"
+                ]
               },
               "first_seen": "2026-08-28T23:12:35.532Z"
             },
@@ -172,12 +303,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Apache Storm",
+                "homepage": "https://storm.apache.org/",
                 "id": 14135470,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T07:34:40Z",
+                "open_issues": 31,
                 "owner": "apache",
                 "repo": "storm",
-                "stars": 6698
+                "stars": 6698,
+                "topics": [
+                  "apache",
+                  "distributed",
+                  "storm",
+                  "streaming"
+                ]
               },
               "first_seen": "2026-08-28T23:12:35.532Z"
             },
@@ -188,12 +329,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🦀 event stream processing for developers to collect and transform data in motion to power responsive data intensive applications.",
+                "homepage": "https://www.fluvio.io/",
                 "id": 205473061,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-25T11:39:23Z",
+                "open_issues": 140,
                 "owner": "fluvio-community",
                 "repo": "fluvio",
-                "stars": 5248
+                "stars": 5248,
+                "topics": [
+                  "cloud-native",
+                  "data-analytics",
+                  "data-flow",
+                  "data-integration",
+                  "data-pipelines",
+                  "distributed-systems",
+                  "event-driven-architecture",
+                  "real-time",
+                  "rust",
+                  "serverless",
+                  "stateful",
+                  "stream-processing",
+                  "stream-processing-engine",
+                  "streaming",
+                  "streaming-analytics",
+                  "streaming-data",
+                  "streaming-data-pipelines",
+                  "streaming-data-processing",
+                  "webassembly"
+                ]
               },
               "first_seen": "2026-08-28T23:12:35.532Z"
             },
@@ -204,12 +370,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Distributed stream processing engine in Rust",
+                "homepage": "https://arroyo.dev",
                 "id": 621929252,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T18:33:32Z",
+                "open_issues": 120,
                 "owner": "ArroyoSystems",
                 "repo": "arroyo",
-                "stars": 5019
+                "stars": 5019,
+                "topics": [
+                  "data",
+                  "data-stream-processing",
+                  "dev-tools",
+                  "infrastructure",
+                  "kafka",
+                  "rust",
+                  "sql",
+                  "stream-processing",
+                  "stream-processing-engine"
+                ]
               },
               "first_seen": "2026-08-28T23:12:35.532Z"
             },
@@ -220,12 +401,21 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Apache Heron (Incubating) is a realtime, distributed, fault-tolerant stream processing engine from Twitter",
+                "homepage": "https://heron.apache.org/",
                 "id": 43158694,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2023-03-01T15:11:08Z",
+                "open_issues": 409,
                 "owner": "apache",
                 "repo": "incubator-heron",
-                "stars": 3628
+                "stars": 3628,
+                "topics": [
+                  "heron",
+                  "messaging",
+                  "streaming"
+                ]
               },
               "first_seen": "2026-08-28T23:12:35.532Z"
             },
@@ -236,12 +426,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Kubernetes-native platform to run massively parallel data/streaming jobs",
+                "homepage": "https://numaflow.numaproj.io",
                 "id": 494617920,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T14:39:33Z",
+                "open_issues": 282,
                 "owner": "numaproj",
                 "repo": "numaflow",
-                "stars": 2826
+                "stars": 2826,
+                "topics": [
+                  "data-processing",
+                  "hacktoberfest",
+                  "k8s",
+                  "kubernetes",
+                  "map-reduce",
+                  "pipeline",
+                  "stream-processing"
+                ]
               },
               "first_seen": "2026-08-28T23:12:35.532Z"
             },
@@ -252,12 +455,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "High-performance time-series aggregation for PostgreSQL",
+                "homepage": "https://www.pipelinedb.com",
                 "id": 14702444,
                 "language": "C",
+                "license": "Apache-2.0",
                 "last_commit": "2022-02-20T10:24:23Z",
+                "open_issues": 133,
                 "owner": "pipelinedb",
                 "repo": "pipelinedb",
-                "stars": 2662
+                "stars": 2662,
+                "topics": [
+                  "aggregation",
+                  "analytics",
+                  "pipelinedb",
+                  "postgresql",
+                  "push",
+                  "realtime",
+                  "sql",
+                  "stream-processing",
+                  "time-series"
+                ]
               },
               "first_seen": "2026-08-28T23:12:35.532Z"
             },
@@ -268,12 +486,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "NATS Streaming System Server",
+                "homepage": "https://nats.io",
                 "id": 54661965,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2024-04-01T16:59:27Z",
+                "open_issues": 59,
                 "owner": "nats-io",
                 "repo": "nats-streaming-server",
-                "stars": 2522
+                "stars": 2522,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:12:35.532Z"
             },
@@ -284,12 +507,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Fastest Unified Streaming SQL Engine in a Single C++ Binary.        ⚡ Millisecond latency. 100+ GB/s throughput. Continuously compute real-time context from streams, logs, metrics, events, and CDC.",
+                "homepage": "https://timeplus.com",
                 "id": 678214856,
                 "language": "C++",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-13T01:48:19Z",
+                "open_issues": 80,
                 "owner": "timeplus-io",
                 "repo": "proton",
-                "stars": 2249
+                "stars": 2249,
+                "topics": [
+                  "agentic-ai",
+                  "clickhouse",
+                  "context",
+                  "cpp",
+                  "etl",
+                  "flink",
+                  "iceberg",
+                  "kakfa",
+                  "ksqldb",
+                  "observability",
+                  "pipeline",
+                  "real-time",
+                  "redpanda",
+                  "single-binary",
+                  "sql",
+                  "stream-processing"
+                ]
               },
               "first_seen": "2026-08-28T23:12:35.532Z"
             },
@@ -300,12 +545,23 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Distributed, masterless, high performance, fault tolerant data processing",
+                "homepage": "http://www.onyxplatform.org",
                 "id": 14849761,
                 "language": "Clojure",
+                "license": "EPL-1.0",
                 "last_commit": "2019-08-31T10:58:07Z",
+                "open_issues": 84,
                 "owner": "onyx-platform",
                 "repo": "onyx",
-                "stars": 2051
+                "stars": 2051,
+                "topics": [
+                  "batch",
+                  "clojure",
+                  "data",
+                  "distributed",
+                  "streaming"
+                ]
               },
               "first_seen": "2026-08-28T23:12:35.532Z"
             },
@@ -316,12 +572,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python Stream Processing",
+                "homepage": "https://docs.bytewax.io/",
                 "id": 455655192,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-06-20T02:53:41Z",
+                "open_issues": 37,
                 "owner": "bytewax",
                 "repo": "bytewax",
-                "stars": 2047
+                "stars": 2047,
+                "topics": [
+                  "data-engineering",
+                  "data-processing",
+                  "data-science",
+                  "dataflow",
+                  "machine-learning",
+                  "python",
+                  "rust",
+                  "stream-processing",
+                  "streaming-data"
+                ]
               },
               "first_seen": "2026-08-28T23:12:35.532Z"
             },
@@ -332,12 +603,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Distributed storage for sequential data",
+                "homepage": "https://logdevice.io",
                 "id": 148499828,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2021-10-12T21:28:41Z",
+                "open_issues": 11,
                 "owner": "facebookarchive",
                 "repo": "LogDevice",
-                "stars": 1901
+                "stars": 1901,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:12:35.532Z"
             },
@@ -348,12 +624,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Lightweight data stream processing engine for IoT edge",
+                "homepage": "https://ekuiper.org",
                 "id": 195003588,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-19T05:24:10Z",
+                "open_issues": 49,
                 "owner": "lf-edge",
                 "repo": "ekuiper",
-                "stars": 1733
+                "stars": 1733,
+                "topics": [
+                  "edge",
+                  "edge-analytics",
+                  "edge-computing",
+                  "edge-streaming",
+                  "hacktoberfest",
+                  "iot",
+                  "rule-engine",
+                  "sql"
+                ]
               },
               "first_seen": "2026-08-28T23:12:35.532Z"
             },
@@ -364,12 +654,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Stream Processing and Complex Event Processing Engine",
+                "homepage": "http://siddhi.io",
                 "id": 18988631,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-05-05T12:16:03Z",
+                "open_issues": 125,
                 "owner": "siddhi-io",
                 "repo": "siddhi",
-                "stars": 1590
+                "stars": 1590,
+                "topics": [
+                  "cep",
+                  "cloud",
+                  "cloud-native",
+                  "cncf",
+                  "complex-event-processing",
+                  "library",
+                  "online-learning",
+                  "stream-processing",
+                  "streaming-data-processing"
+                ]
               },
               "first_seen": "2026-08-28T23:12:35.532Z"
             },
@@ -380,12 +685,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Distributed Stream Processing",
+                "homepage": "https://www.wallaroolabs.com",
                 "id": 48806149,
                 "language": "Pony",
+                "license": "Apache-2.0",
                 "last_commit": "2021-04-06T15:27:03Z",
+                "open_issues": 348,
                 "owner": "WallarooLabs",
                 "repo": "wally",
-                "stars": 1482
+                "stars": 1482,
+                "topics": [
+                  "api",
+                  "framework",
+                  "go",
+                  "golang",
+                  "linux",
+                  "pony-language",
+                  "python",
+                  "stream-processing",
+                  "stream-processing-engine",
+                  "stream-processor"
+                ]
               },
               "first_seen": "2026-08-28T23:12:35.532Z"
             },
@@ -396,12 +717,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A platform that makes it easy for developers to build realtime, cost-effective, operations-focused applications",
+                "homepage": null,
                 "id": 190664284,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-21T23:21:42Z",
+                "open_issues": 92,
                 "owner": "Netflix",
                 "repo": "mantis",
-                "stars": 1470
+                "stars": 1469,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:12:35.532Z"
             },
@@ -412,12 +738,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A  high available,high performance distributed messaging system.",
+                "homepage": null,
                 "id": 3657615,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2020-04-07T12:11:35Z",
+                "open_issues": 49,
                 "owner": "killme2008",
                 "repo": "Metamorphosis",
-                "stars": 1329
+                "stars": 1329,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:12:35.532Z"
             },
@@ -428,12 +759,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "High performance Rust stream processing engine seamlessly integrates AI capabilities, providing powerful real-time data processing and intelligent analysis. ",
+                "homepage": "https://arkflow-rs.com/",
                 "id": 940905405,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-27T01:05:29Z",
+                "open_issues": 30,
                 "owner": "arkflow-rs",
                 "repo": "arkflow",
-                "stars": 1302
+                "stars": 1302,
+                "topics": [
+                  "ai",
+                  "arkflow",
+                  "datafusion",
+                  "deep-learning",
+                  "duckdb",
+                  "flow",
+                  "kafka",
+                  "machine-learning",
+                  "mysql",
+                  "nats",
+                  "postgresql",
+                  "redis",
+                  "rust",
+                  "rust-lang",
+                  "sql",
+                  "sqlite",
+                  "stream",
+                  "tokio",
+                  "tokio-rs",
+                  "websocket"
+                ]
               },
               "first_seen": "2026-08-28T23:12:35.532Z"
             },
@@ -444,12 +801,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Trill is a single-node query processor for temporal or streaming data.",
+                "homepage": null,
                 "id": 150474379,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2024-01-08T16:10:38Z",
+                "open_issues": 50,
                 "owner": "microsoft",
                 "repo": "Trill",
-                "stars": 1271
+                "stars": 1271,
+                "topics": [
+                  "streaming-data",
+                  "temporal-data"
+                ]
               },
               "first_seen": "2026-08-28T23:12:35.532Z"
             },
@@ -460,12 +825,26 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "SQL-based streaming analytics platform at scale",
+                "homepage": null,
                 "id": 103989411,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2020-06-21T16:02:38Z",
+                "open_issues": 18,
                 "owner": "uber-archive",
                 "repo": "AthenaX",
-                "stars": 1223
+                "stars": 1223,
+                "topics": [
+                  "analytics",
+                  "calcite",
+                  "data",
+                  "flink",
+                  "sql",
+                  "stream",
+                  "streaming",
+                  "uber"
+                ]
               },
               "first_seen": "2026-08-28T23:12:35.532Z"
             },
@@ -476,12 +855,27 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Distributed Stream and Batch Processing",
+                "homepage": "https://jet-start.sh",
                 "id": 48046454,
                 "language": "Java",
+                "license": "NOASSERTION",
                 "last_commit": "2024-12-19T11:55:10Z",
+                "open_issues": 127,
                 "owner": "hazelcast",
                 "repo": "hazelcast-jet",
-                "stars": 1110
+                "stars": 1110,
+                "topics": [
+                  "batch-processing",
+                  "big-data",
+                  "cdc",
+                  "event-processing",
+                  "hacktoberfest",
+                  "java",
+                  "kafka",
+                  "low-latency",
+                  "stream-processing"
+                ]
               },
               "first_seen": "2026-08-28T23:12:35.532Z"
             },
@@ -492,12 +886,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Esper Complex Event Processing, Streaming SQL and Event Series Analysis",
+                "homepage": null,
                 "id": 33491843,
                 "language": "Java",
+                "license": "GPL-2.0",
                 "last_commit": "2024-04-26T12:22:15Z",
+                "open_issues": 16,
                 "owner": "espertechinc",
                 "repo": "esper",
-                "stars": 875
+                "stars": 875,
+                "topics": [
+                  "cep",
+                  "compiler",
+                  "complex-event-processing",
+                  "esper",
+                  "espertech",
+                  "event-series-analysis",
+                  "java",
+                  "open-source",
+                  "streaming-sql"
+                ]
               },
               "first_seen": "2026-08-28T23:12:35.532Z"
             },
@@ -508,12 +917,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Mirror of Apache Samza",
+                "homepage": null,
                 "id": 32199982,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-20T01:23:27Z",
+                "open_issues": 43,
                 "owner": "apache",
                 "repo": "samza",
-                "stars": 846
+                "stars": 846,
+                "topics": [
+                  "big-data",
+                  "samza",
+                  "scala"
+                ]
               },
               "first_seen": "2026-08-28T23:12:35.532Z"
             },
@@ -524,12 +942,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Build platforms that flexibly mix SQL, batch, and stream processing paradigms",
+                "homepage": "https://gazette.dev",
                 "id": 107715151,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-08-24T18:00:56Z",
+                "open_issues": 21,
                 "owner": "gazette",
                 "repo": "core",
-                "stars": 796
+                "stars": 796,
+                "topics": [
+                  "brokers",
+                  "event-sourcing",
+                  "golang",
+                  "stream-processing",
+                  "streaming-platforms"
+                ]
               },
               "first_seen": "2026-08-28T23:12:35.532Z"
             },
@@ -540,12 +969,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Lightweight real-time big data streaming engine over Akka",
+                "homepage": "https://gearpump.github.io/gearpump/",
                 "id": 22139167,
                 "language": "Scala",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-25T02:27:39Z",
+                "open_issues": 2,
                 "owner": "gearpump",
                 "repo": "gearpump",
-                "stars": 755
+                "stars": 755,
+                "topics": [
+                  "akka",
+                  "bigdata",
+                  "scala",
+                  "stream-processing"
+                ]
               },
               "first_seen": "2026-08-28T23:12:35.532Z"
             },
@@ -556,12 +995,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Apache StreamPipes - A self-service (Industrial) IoT toolbox to enable non-technical users to connect, analyze and explore IoT data streams.",
+                "homepage": "https://streampipes.apache.org",
                 "id": 130603282,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T21:58:44Z",
+                "open_issues": 59,
                 "owner": "apache",
                 "repo": "streampipes",
-                "stars": 739
+                "stars": 740,
+                "topics": [
+                  "analytics",
+                  "dashboard",
+                  "edge",
+                  "iiot",
+                  "iot",
+                  "iot-analytics",
+                  "iot-platform",
+                  "microservices",
+                  "opcua",
+                  "s7",
+                  "self-service",
+                  "stream-processing"
+                ]
               },
               "first_seen": "2026-08-28T23:12:35.532Z"
             },
@@ -572,12 +1029,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "HStreamDB is an open-source, cloud-native streaming database for IoT and beyond. Modernize your data stack for real-time applications.",
+                "homepage": "https://hstream.io/",
                 "id": 291675222,
                 "language": "Haskell",
+                "license": "BSD-3-Clause",
                 "last_commit": "2024-12-26T02:51:04Z",
+                "open_issues": 11,
                 "owner": "hstreamdb",
                 "repo": "hstream",
-                "stars": 722
+                "stars": 722,
+                "topics": [
+                  "data-processing",
+                  "database",
+                  "distributed-database",
+                  "distributed-systems",
+                  "financial-analysis",
+                  "haskell",
+                  "hstreamdb",
+                  "iot",
+                  "iot-database",
+                  "kafka",
+                  "materialized-view",
+                  "real-time",
+                  "realtime-database",
+                  "scale",
+                  "sql",
+                  "stream-processing",
+                  "streaming",
+                  "streaming-data",
+                  "streaming-database"
+                ]
               },
               "first_seen": "2026-08-28T23:12:35.532Z"
             },
@@ -588,12 +1070,21 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Mirror of Apache Apex core",
+                "homepage": null,
                 "id": 41348333,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2021-06-07T08:25:09Z",
+                "open_issues": 2,
                 "owner": "apache",
                 "repo": "apex-core",
-                "stars": 350
+                "stars": 350,
+                "topics": [
+                  "apex",
+                  "big-data",
+                  "java"
+                ]
               },
               "first_seen": "2026-08-28T23:12:35.532Z"
             },
@@ -604,12 +1095,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The database purpose-built for stream processing applications.",
+                "homepage": "https://ksqldb.io",
                 "id": 69400326,
                 "language": "Java",
-                "last_commit": "2026-08-28T22:28:26Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-29T03:54:19Z",
+                "open_issues": 1326,
                 "owner": "confluentinc",
                 "repo": "ksql",
-                "stars": 315
+                "stars": 315,
+                "topics": [
+                  "event-streaming-database",
+                  "interactive",
+                  "kafka",
+                  "kafka-connect",
+                  "ksqldb",
+                  "ksqldb-documentation",
+                  "ksqldb-tutorials",
+                  "materialized-views",
+                  "real-time",
+                  "sql",
+                  "stream-processing",
+                  "streaming-queries"
+                ]
               },
               "first_seen": "2026-08-28T23:12:35.532Z"
             },
@@ -620,12 +1129,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "High Throughput Real-time Stream Processing Framework",
+                "homepage": "http://tigon.io",
                 "id": 22634457,
                 "language": "C++",
+                "license": "Apache-2.0",
                 "last_commit": "2017-04-05T16:12:13Z",
+                "open_issues": 1,
                 "owner": "cdapio",
                 "repo": "tigon",
-                "stars": 284
+                "stars": 284,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:12:35.532Z"
             },
@@ -636,12 +1150,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A streaming / online query processing / analytics engine based on Apache Storm",
+                "homepage": null,
                 "id": 3868277,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2017-05-18T06:47:21Z",
+                "open_issues": 3,
                 "owner": "epfldata",
                 "repo": "squall",
-                "stars": 274
+                "stars": 274,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:12:35.532Z"
             },
@@ -652,12 +1171,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Lightweight stream processing engine for IoT",
+                "homepage": "http://sensorbee.io/",
                 "id": 52070846,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2019-11-04T22:46:34Z",
+                "open_issues": 39,
                 "owner": "sensorbee",
                 "repo": "sensorbee",
-                "stars": 231
+                "stars": 231,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:12:35.532Z"
             },
@@ -668,12 +1192,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "graph based stream processing framework",
+                "homepage": "https://www.wingfoil.io/",
                 "id": 1058247783,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T19:52:13Z",
+                "open_issues": 33,
                 "owner": "wingfoil-io",
                 "repo": "wingfoil",
-                "stars": 216
+                "stars": 216,
+                "topics": [
+                  "algorithmic-trading",
+                  "backtesting",
+                  "complex-event-processing",
+                  "dag",
+                  "data-engineering",
+                  "data-pipelines",
+                  "dataflow",
+                  "event-driven",
+                  "hft",
+                  "low-latency",
+                  "market-data",
+                  "pyo3",
+                  "python",
+                  "quantitative-finance",
+                  "reactive-programming",
+                  "real-time-analytics",
+                  "real-time-data",
+                  "rust",
+                  "stream-processing",
+                  "time-series"
+                ]
               },
               "first_seen": "2026-08-28T23:12:35.532Z"
             },
@@ -684,12 +1234,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Muppet",
+                "homepage": null,
                 "id": 5279303,
                 "language": "Scala",
+                "license": "Apache-2.0",
                 "last_commit": "2021-05-07T18:55:12Z",
+                "open_issues": 9,
                 "owner": "walmartlabs",
                 "repo": "mupd8",
-                "stars": 128
+                "stars": 128,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:12:35.532Z"
             },
@@ -700,12 +1255,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Data management for the sensor-edge-cloud continuum",
+                "homepage": "https://www.nebula.stream",
                 "id": 809730404,
                 "language": "C++",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T17:39:40Z",
+                "open_issues": 260,
                 "owner": "nebulastream",
                 "repo": "nebulastream",
-                "stars": 95
+                "stars": 95,
+                "topics": [
+                  "bigdata",
+                  "streamprocessing"
+                ]
               },
               "first_seen": "2026-08-28T23:12:35.532Z"
             },
@@ -716,12 +1279,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Haskell distributed stream processing with exactly-once semantics",
+                "homepage": "hailstorm-hs.github.io/hailstorm",
                 "id": 19440915,
                 "language": "Haskell",
+                "license": "Apache-2.0",
                 "last_commit": "2014-06-11T08:20:52Z",
+                "open_issues": 1,
                 "owner": "hailstorm-hs",
                 "repo": "hailstorm",
-                "stars": 94
+                "stars": 94,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:12:35.532Z"
             },
@@ -732,12 +1300,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Multi-core Window-Based Stream Processing Engine",
+                "homepage": "https://lsds.doc.ic.ac.uk/projects/lightsaber",
                 "id": 247694973,
                 "language": "C++",
+                "license": "Apache-2.0",
                 "last_commit": "2021-10-20T10:24:02Z",
+                "open_issues": 0,
                 "owner": "lsds",
                 "repo": "LightSaber",
-                "stars": 74
+                "stars": 74,
+                "topics": [
+                  "aggregation",
+                  "compression",
+                  "cpp",
+                  "incremental-computation",
+                  "libaio",
+                  "llvm",
+                  "multi-core",
+                  "numa",
+                  "rdma",
+                  "sliding-windows",
+                  "ssd",
+                  "stream-processing"
+                ]
               },
               "first_seen": "2026-08-28T23:12:35.532Z"
             },
@@ -748,12 +1334,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Scramjet Platform is a distributed runtime supervisor that can run data processing programs called Sequences and manage local resources on any Linux server, Docker on small edge servers, and even large-scale Kubernetes clusters in the cloud or datacenters without exposing network ports to the public internet.",
+                "homepage": "https://docs.scramjet.org",
                 "id": 381708833,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T14:51:42Z",
+                "open_issues": 1,
                 "owner": "scramjetorg",
                 "repo": "transform-hub",
-                "stars": 71
+                "stars": 71,
+                "topics": [
+                  "bun",
+                  "containers",
+                  "docker",
+                  "kubernetes",
+                  "kubernetes-deployment",
+                  "nodejs",
+                  "python",
+                  "real-time",
+                  "remoting",
+                  "rpc-server",
+                  "runtime-supervisor",
+                  "stream-processing",
+                  "transform-as-a-service"
+                ]
               },
               "first_seen": "2026-08-28T23:12:35.532Z"
             },
@@ -764,12 +1369,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open-source streaming SQL engine written in Rust using Apache Arrow and DataFusion. Supports continuous queries,  temporal stream joins, tumbling/session windows, and CDC/Kafka connectors. Lightweight, embeddable, and sub-microsecond latency",
+                "homepage": "https://laminardb.io",
                 "id": 1139234119,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T16:39:32Z",
+                "open_issues": 24,
                 "owner": "laminardb",
                 "repo": "laminardb",
-                "stars": 45
+                "stars": 45,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:12:35.532Z"
             },
@@ -780,12 +1390,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Window-Based Hybrid CPU/GPU Stream Processing Engine",
+                "homepage": null,
                 "id": 61813979,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2022-11-16T09:24:56Z",
+                "open_issues": 10,
                 "owner": "lsds",
                 "repo": "Saber",
-                "stars": 44
+                "stars": 44,
+                "topics": [
+                  "gpu",
+                  "high-throughput",
+                  "hybrid",
+                  "multicore",
+                  "multicore-cpu",
+                  "saber",
+                  "sliding-windows",
+                  "stream",
+                  "stream-processing",
+                  "streaming",
+                  "streaming-data"
+                ]
               },
               "first_seen": "2026-08-28T23:12:35.532Z"
             },
@@ -796,12 +1423,19 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Mirror of Apache S4",
+                "homepage": null,
                 "id": 3169287,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2018-12-10T18:52:32Z",
+                "open_issues": 0,
                 "owner": "apache",
                 "repo": "incubator-retired-s4",
-                "stars": 43
+                "stars": 43,
+                "topics": [
+                  "retired"
+                ]
               },
               "first_seen": "2026-08-28T23:12:35.532Z"
             },
@@ -812,12 +1446,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Stream Processing Made Easy",
+                "homepage": "https://www.makinage.org",
                 "id": 244487574,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-04-24T20:17:10Z",
+                "open_issues": 8,
                 "owner": "maki-nage",
                 "repo": "makinage",
-                "stars": 42
+                "stars": 42,
+                "topics": [
+                  "distributed-systems",
+                  "kafka",
+                  "machine-learning",
+                  "python",
+                  "reactive-machine-learning",
+                  "reactive-programming",
+                  "reactive-systems",
+                  "stream-processing",
+                  "streaming",
+                  "streaming-data"
+                ]
               },
               "first_seen": "2026-08-28T23:12:35.532Z"
             },
@@ -828,12 +1478,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Spooker is a dynamic framework for processing high volume data streams via processing pipelines",
+                "homepage": null,
                 "id": 31911300,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2016-02-01T07:28:59Z",
+                "open_issues": 0,
                 "owner": "ottogroup",
                 "repo": "SPQR",
-                "stars": 30
+                "stars": 30,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:12:35.532Z"
             },
@@ -844,12 +1499,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The core libraries of the teknek stream processing platform",
+                "homepage": null,
                 "id": 15570835,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2015-12-15T02:58:10Z",
+                "open_issues": 1,
                 "owner": "edwardcapriolo",
                 "repo": "teknek-core",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:12:35.532Z"
             },
@@ -860,12 +1520,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 108099407,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2017-07-12T09:32:27Z",
+                "open_issues": 0,
                 "owner": "Zhiqiang-He",
                 "repo": "StreamCQL",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:12:35.532Z"
             }
@@ -883,12 +1548,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cross-platform, customizable ML solutions for live and streaming media.",
+                "homepage": "https://ai.google.dev/edge/mediapipe",
                 "id": 191820100,
                 "language": "C++",
-                "last_commit": "2026-08-28T21:56:34Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T03:16:10Z",
+                "open_issues": 549,
                 "owner": "google-ai-edge",
                 "repo": "mediapipe",
-                "stars": 36761
+                "stars": 36762,
+                "topics": [
+                  "android",
+                  "audio-processing",
+                  "c-plus-plus",
+                  "calculator",
+                  "computer-vision",
+                  "deep-learning",
+                  "framework",
+                  "graph-based",
+                  "graph-framework",
+                  "inference",
+                  "machine-learning",
+                  "mediapipe",
+                  "mobile-development",
+                  "perception",
+                  "pipeline-framework",
+                  "stream-processing",
+                  "video-processing"
+                ]
               },
               "first_seen": "2026-08-28T23:12:35.532Z"
             },
@@ -899,12 +1587,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Apache Kafka - A distributed event streaming platform",
+                "homepage": "https://kafka.apache.org/",
                 "id": 2211243,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T22:41:09Z",
+                "open_issues": 516,
                 "owner": "apache",
                 "repo": "kafka",
-                "stars": 33639
+                "stars": 33638,
+                "topics": [
+                  "java",
+                  "kafka",
+                  "scala",
+                  "streaming"
+                ]
               },
               "first_seen": "2026-08-28T23:12:35.532Z"
             },
@@ -915,12 +1613,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A platform to build and run apps that are elastic, agile, and resilient. SDK, libraries, and hosted environments.",
+                "homepage": "https://doc.akka.io/libraries/",
                 "id": 130013,
                 "language": "Scala",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-26T08:25:47Z",
+                "open_issues": 901,
                 "owner": "akka",
                 "repo": "akka-core",
-                "stars": 13276
+                "stars": 13276,
+                "topics": [
+                  "actor-model",
+                  "akka",
+                  "cloud-native",
+                  "concurrency",
+                  "distributed-actors",
+                  "distributed-systems",
+                  "high-performance",
+                  "reactive",
+                  "streaming"
+                ]
               },
               "first_seen": "2026-08-28T23:12:35.532Z"
             },
@@ -931,12 +1644,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A platform to build and run apps that are elastic, agile, and resilient. SDK, libraries, and hosted environments.",
+                "homepage": "https://doc.akka.io/libraries/",
                 "id": 130013,
                 "language": "Scala",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-26T08:25:47Z",
+                "open_issues": 901,
                 "owner": "akka",
                 "repo": "akka-core",
-                "stars": 13276
+                "stars": 13276,
+                "topics": [
+                  "actor-model",
+                  "akka",
+                  "cloud-native",
+                  "concurrency",
+                  "distributed-actors",
+                  "distributed-systems",
+                  "high-performance",
+                  "reactive",
+                  "streaming"
+                ]
               },
               "first_seen": "2026-08-28T23:12:35.532Z"
             },
@@ -947,12 +1675,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Apache Beam is a unified programming model for Batch and Streaming data processing.",
+                "homepage": "https://beam.apache.org/",
                 "id": 50904245,
                 "language": "Java",
-                "last_commit": "2026-08-28T21:59:17Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T03:53:41Z",
+                "open_issues": 3956,
                 "owner": "apache",
                 "repo": "beam",
-                "stars": 8653
+                "stars": 8653,
+                "topics": [
+                  "batch",
+                  "beam",
+                  "big-data",
+                  "golang",
+                  "java",
+                  "python",
+                  "sql",
+                  "streaming"
+                ]
               },
               "first_seen": "2026-08-28T23:12:35.532Z"
             },
@@ -963,12 +1705,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python Stream Processing",
+                "homepage": null,
                 "id": 84353800,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2024-07-27T10:27:41Z",
+                "open_issues": 279,
                 "owner": "robinhood",
                 "repo": "faust",
-                "stars": 6825
+                "stars": 6825,
+                "topics": [
+                  "asyncio",
+                  "distributed-systems",
+                  "kafka",
+                  "kafka-streams",
+                  "python",
+                  "stream-processing"
+                ]
               },
               "first_seen": "2026-08-28T23:12:35.532Z"
             },
@@ -979,12 +1733,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🌊 Online machine learning in Python",
+                "homepage": "https://riverml.xyz",
                 "id": 167388434,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-21T19:05:47Z",
+                "open_issues": 71,
                 "owner": "online-ml",
                 "repo": "river",
-                "stars": 5924
+                "stars": 5925,
+                "topics": [
+                  "concept-drift",
+                  "data-science",
+                  "incremental-learning",
+                  "machine-learning",
+                  "online-learning",
+                  "online-machine-learning",
+                  "online-statistics",
+                  "python",
+                  "real-time-processing",
+                  "stream-processing",
+                  "streaming",
+                  "streaming-data"
+                ]
               },
               "first_seen": "2026-08-28T23:12:35.532Z"
             },
@@ -995,12 +1767,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Asynchronous Python framework for event-driven services. A thin client for Kafka, RabbitMQ, NATS, Redis and MQTT with full access to native broker features, plus AsyncAPI docs, in-memory tests and observability out of the box.",
+                "homepage": "http://faststream.ag2.ai/latest/",
                 "id": 572911222,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T21:11:08Z",
+                "open_issues": 101,
                 "owner": "ag2ai",
                 "repo": "faststream",
-                "stars": 5319
+                "stars": 5319,
+                "topics": [
+                  "asyncapi",
+                  "asyncio",
+                  "distributed-systems",
+                  "event-driven-architecture",
+                  "faststream",
+                  "kafka",
+                  "mqtt",
+                  "mqtt-broker",
+                  "nats",
+                  "python",
+                  "rabbitmq",
+                  "redis",
+                  "stream-processing"
+                ]
               },
               "first_seen": "2026-08-28T23:12:35.532Z"
             },
@@ -1011,12 +1802,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Compositional, streaming I/O library for Scala",
+                "homepage": "https://fs2.io",
                 "id": 8609125,
                 "language": "Scala",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T11:28:11Z",
+                "open_issues": 151,
                 "owner": "typelevel",
                 "repo": "fs2",
-                "stars": 2451
+                "stars": 2451,
+                "topics": [
+                  "fp",
+                  "functional-programming",
+                  "scala",
+                  "stream",
+                  "streaming-computation"
+                ]
               },
               "first_seen": "2026-08-28T23:12:35.532Z"
             },
@@ -1027,12 +1829,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Streaming MapReduce with Scalding and Storm",
+                "homepage": "https://twitter.com/summingbird",
                 "id": 5957708,
                 "language": "Scala",
+                "license": "Apache-2.0",
                 "last_commit": "2022-01-19T17:31:02Z",
+                "open_issues": 162,
                 "owner": "twitter",
                 "repo": "summingbird",
-                "stars": 2123
+                "stars": 2123,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:12:35.532Z"
             },
@@ -1043,12 +1850,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Asynchronous, Reactive Programming for Scala and Scala.js.",
+                "homepage": "https://monix.io",
                 "id": 15673987,
                 "language": "Scala",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-25T06:14:09Z",
+                "open_issues": 86,
                 "owner": "monix",
                 "repo": "monix",
-                "stars": 1928
+                "stars": 1928,
+                "topics": [
+                  "cats",
+                  "cats-effect",
+                  "fp",
+                  "functional-programming",
+                  "monix",
+                  "reactive-programming",
+                  "reactive-streams",
+                  "reactivex",
+                  "scala",
+                  "typelevel"
+                ]
               },
               "first_seen": "2026-08-28T23:12:35.532Z"
             },
@@ -1059,12 +1882,27 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Event driven concurrent framework for Python",
+                "homepage": null,
                 "id": 1257514,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2019-12-27T05:13:22Z",
+                "open_issues": 29,
                 "owner": "quantmind",
                 "repo": "pulsar",
-                "stars": 1845
+                "stars": 1845,
+                "topics": [
+                  "asyncio",
+                  "greenlet",
+                  "http",
+                  "http-server",
+                  "multiprocessing",
+                  "python",
+                  "rpc",
+                  "test-framework",
+                  "wsgi"
+                ]
               },
               "first_seen": "2026-08-28T23:12:35.532Z"
             },
@@ -1075,12 +1913,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Build highly concurrent, distributed, and resilient message-driven applications using Java/Scala",
+                "homepage": "https://pekko.apache.org/",
                 "id": 559857046,
                 "language": "Scala",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T06:31:24Z",
+                "open_issues": 163,
                 "owner": "apache",
                 "repo": "pekko",
-                "stars": 1631
+                "stars": 1631,
+                "topics": [
+                  "actor-model",
+                  "cloud-native",
+                  "concurrency",
+                  "distributed-actors",
+                  "distributed-systems",
+                  "high-performance",
+                  "message-driven",
+                  "pekko",
+                  "reactive",
+                  "streaming"
+                ]
               },
               "first_seen": "2026-08-28T23:12:35.532Z"
             },
@@ -1091,12 +1945,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python Streaming DataFrames for Kafka",
+                "homepage": "https://docs.quix.io",
                 "id": 567454609,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-26T14:20:47Z",
+                "open_issues": 30,
                 "owner": "quixio",
                 "repo": "quix-streams",
-                "stars": 1568
+                "stars": 1568,
+                "topics": [
+                  "data-engineering",
+                  "data-intensive-applications",
+                  "data-science",
+                  "event-driven-architecture",
+                  "kafka",
+                  "machine-learning",
+                  "python",
+                  "real-time-data-processing",
+                  "stream-processing",
+                  "stream-processor",
+                  "streaming-data",
+                  "streaming-data-pipelines",
+                  "streaming-data-processing",
+                  "time-series-data"
+                ]
               },
               "first_seen": "2026-08-28T23:12:35.532Z"
             },
@@ -1107,12 +1981,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Run Python in Apache Storm topologies. Pythonic API, CLI tooling, and a topology DSL.",
+                "homepage": "http://streamparse.readthedocs.io/",
                 "id": 19387849,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-04-22T17:12:33Z",
+                "open_issues": 61,
                 "owner": "pystorm",
                 "repo": "streamparse",
-                "stars": 1505
+                "stars": 1505,
+                "topics": [
+                  "apache-storm",
+                  "python",
+                  "storm"
+                ]
               },
               "first_seen": "2026-08-28T23:12:35.532Z"
             },
@@ -1123,12 +2006,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Real-time stream processing for python",
+                "homepage": "https://streamz.readthedocs.io/en/latest/",
                 "id": 87238184,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-04-07T14:11:52Z",
+                "open_issues": 121,
                 "owner": "python-streamz",
                 "repo": "streamz",
-                "stars": 1303
+                "stars": 1303,
+                "topics": [
+                  "async",
+                  "python",
+                  "real-time",
+                  "streaming-data"
+                ]
               },
               "first_seen": "2026-08-28T23:12:35.532Z"
             },
@@ -1139,12 +2032,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A scalable, mature and versatile web crawler based on Apache Storm",
+                "homepage": "https://stormcrawler.apache.org/",
                 "id": 9395761,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T10:52:19Z",
+                "open_issues": 25,
                 "owner": "apache",
                 "repo": "stormcrawler",
-                "stars": 993
+                "stars": 993,
+                "topics": [
+                  "apache-storm",
+                  "crawler",
+                  "distributed",
+                  "java",
+                  "stormcrawler",
+                  "web-crawler"
+                ]
               },
               "first_seen": "2026-08-28T23:12:35.532Z"
             },
@@ -1155,12 +2060,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A software library of stochastic streaming algorithms, a.k.a. sketches.",
+                "homepage": "https://datasketches.apache.org",
                 "id": 38279790,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-27T00:46:06Z",
+                "open_issues": 11,
                 "owner": "apache",
                 "repo": "datasketches-java",
-                "stars": 959
+                "stars": 959,
+                "topics": [
+                  "datasketches"
+                ]
               },
               "first_seen": "2026-08-28T23:12:35.532Z"
             },
@@ -1171,12 +2083,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Framework and Library for Distributed Online Machine Learning",
+                "homepage": "http://jubat.us/",
                 "id": 2645030,
                 "language": "C++",
+                "license": "LGPL-2.1",
                 "last_commit": "2019-05-16T05:18:48Z",
+                "open_issues": 4,
                 "owner": "jubatus",
                 "repo": "jubatus",
-                "stars": 707
+                "stars": 707,
+                "topics": [
+                  "c-plus-plus",
+                  "distributed",
+                  "machine-learning",
+                  "ml"
+                ]
               },
               "first_seen": "2026-08-28T23:12:35.532Z"
             },
@@ -1187,12 +2109,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ".NET Stream Processing Library for Apache Kafka 🚀",
+                "homepage": "https://lgouellec.github.io/streamiz/",
                 "id": 231591212,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-08-27T01:53:01Z",
+                "open_issues": 27,
                 "owner": "LGouellec",
                 "repo": "streamiz",
-                "stars": 543
+                "stars": 543,
+                "topics": [
+                  "event-streaming",
+                  "kafka",
+                  "kafka-streams",
+                  "kafka-streams-dotnet",
+                  "kafka-streams-net",
+                  "streamiz"
+                ]
               },
               "first_seen": "2026-08-28T23:12:35.532Z"
             },
@@ -1203,12 +2137,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Stream Data Mining Library for Spark Streaming",
+                "homepage": "http://streamdm.noahlab.com.hk/",
                 "id": 37039699,
                 "language": "Scala",
+                "license": "Apache-2.0",
                 "last_commit": "2023-04-16T14:47:47Z",
+                "open_issues": 4,
                 "owner": "huawei-noah",
                 "repo": "streamDM",
-                "stars": 496
+                "stars": 496,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:12:35.532Z"
             },
@@ -1219,12 +2158,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Streaming reactive and dataflow graphs in Python",
+                "homepage": null,
                 "id": 147895712,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-06-23T11:53:24Z",
+                "open_issues": 9,
                 "owner": "1kbgz",
                 "repo": "tributary",
-                "stars": 465
+                "stars": 465,
+                "topics": [
+                  "asynchronous",
+                  "data-pipeline",
+                  "kafka",
+                  "lazy-evaluation",
+                  "python",
+                  "python-data-streams",
+                  "python3",
+                  "reactive-data-streams",
+                  "stream",
+                  "streaming",
+                  "websockets"
+                ]
               },
               "first_seen": "2026-08-28T23:12:35.532Z"
             },
@@ -1235,12 +2191,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Trident-ML : A realtime online machine learning library",
+                "homepage": null,
                 "id": 8956674,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2023-12-16T17:19:15Z",
+                "open_issues": 3,
                 "owner": "pmerienne",
                 "repo": "trident-ml",
-                "stars": 383
+                "stars": 383,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:12:35.532Z"
             },
@@ -1251,12 +2212,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Mirror of Apache Samoa (Incubating)",
+                "homepage": null,
                 "id": 29903688,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-05-15T22:05:14Z",
+                "open_issues": 17,
                 "owner": "apache",
                 "repo": "incubator-samoa",
-                "stars": 251
+                "stars": 251,
+                "topics": [
+                  "samoa"
+                ]
               },
               "first_seen": "2026-08-28T23:12:35.532Z"
             },
@@ -1267,12 +2235,19 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Mirror of Apache Edgent (Incubating)",
+                "homepage": null,
                 "id": 53566183,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2019-11-01T12:18:55Z",
+                "open_issues": 5,
                 "owner": "apache",
                 "repo": "incubator-retired-edgent",
-                "stars": 222
+                "stars": 222,
+                "topics": [
+                  "edgent"
+                ]
               },
               "first_seen": "2026-08-28T23:12:35.532Z"
             },
@@ -1283,12 +2258,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Apache Storm + OpenCV = large scale distributed image and video analysis.",
+                "homepage": null,
                 "id": 27766532,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2016-12-20T02:05:22Z",
+                "open_issues": 3,
                 "owner": "sensorstorm",
                 "repo": "StormCV",
-                "stars": 174
+                "stars": 174,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:12:35.532Z"
             },
@@ -1299,12 +2279,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A lightweight Reactive Streams Infrastructure Toolkit for Scala.",
+                "homepage": null,
                 "id": 52100226,
                 "language": "Scala",
+                "license": "MPL-2.0",
                 "last_commit": "2018-06-18T20:10:58Z",
+                "open_issues": 8,
                 "owner": "sirthias",
                 "repo": "swave",
-                "stars": 173
+                "stars": 173,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:12:35.532Z"
             },
@@ -1315,12 +2300,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Collection of operational time series ML models and tools",
+                "homepage": "https://numalogic.numaproj.io/",
                 "id": 513323345,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-10-15T22:18:19Z",
+                "open_issues": 52,
                 "owner": "numaproj",
                 "repo": "numalogic",
-                "stars": 172
+                "stars": 172,
+                "topics": [
+                  "autoencoders",
+                  "deep-learning",
+                  "hacktoberfest",
+                  "machine-learning",
+                  "outlier-detection",
+                  "python",
+                  "time-series",
+                  "unsupervised-learning",
+                  "variational-autoencoder"
+                ]
               },
               "first_seen": "2026-08-28T23:12:35.532Z"
             },
@@ -1331,12 +2331,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Daggy - Data Aggregation Utility and C/C++ developer library for data streams catching",
+                "homepage": "https://daggy.gitbook.io",
                 "id": 148928130,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2026-07-26T16:55:28Z",
+                "open_issues": 7,
                 "owner": "synacker",
                 "repo": "daggy",
-                "stars": 165
+                "stars": 165,
+                "topics": [
+                  "aggregation",
+                  "cross-platform-app",
+                  "cross-platform-development",
+                  "data-aggregation",
+                  "extensible",
+                  "monitoring",
+                  "process",
+                  "qt",
+                  "serverless-framework",
+                  "ssh-client",
+                  "ssh2",
+                  "stream-processing",
+                  "streaming"
+                ]
               },
               "first_seen": "2026-08-28T23:12:35.532Z"
             },
@@ -1347,12 +2366,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CapyMOA does efficient machine learning for data streams in Python. CapyMOA is a toolbox of methods and evaluators for: classification, regression, clustering, anomaly detection, semi-supervised learning, online continual learning, and drift detection for data streams.",
+                "homepage": "https://capymoa.org/",
                 "id": 686168940,
                 "language": "Jupyter Notebook",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-24T01:10:37Z",
+                "open_issues": 9,
                 "owner": "adaptive-machine-learning",
                 "repo": "CapyMOA",
-                "stars": 144
+                "stars": 144,
+                "topics": [
+                  "anomaly-detection",
+                  "concept-drift",
+                  "continual-learning",
+                  "data-science",
+                  "data-shift",
+                  "deep-learning",
+                  "drift-detection",
+                  "incremental-learning",
+                  "machine-learning",
+                  "online-classification",
+                  "online-clustering",
+                  "online-continual-learning",
+                  "online-learning",
+                  "stream-learning"
+                ]
               },
               "first_seen": "2026-08-28T23:12:35.532Z"
             },
@@ -1363,12 +2402,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Anomaly detection framework @ PayPal",
+                "homepage": null,
                 "id": 178290225,
                 "language": "Scala",
+                "license": "Apache-2.0",
                 "last_commit": "2019-09-02T20:54:00Z",
+                "open_issues": 0,
                 "owner": "paypal",
                 "repo": "yurita",
-                "stars": 109
+                "stars": 109,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:12:35.532Z"
             },
@@ -1379,12 +2423,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Integration of Samza and Luwak",
+                "homepage": null,
                 "id": 26439645,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2014-11-10T18:34:11Z",
+                "open_issues": 0,
                 "owner": "romseygeek",
                 "repo": "samza-luwak",
-                "stars": 100
+                "stars": 100,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:12:35.532Z"
             },
@@ -1395,12 +2444,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A C++ Data Stream Processing Parallel Library for Multicores and GPUs",
+                "homepage": null,
                 "id": 154855323,
                 "language": "C++",
+                "license": "LGPL-3.0",
                 "last_commit": "2026-04-25T22:02:09Z",
+                "open_issues": 11,
                 "owner": "ParaGroup",
                 "repo": "WindFlow",
-                "stars": 88
+                "stars": 88,
+                "topics": [
+                  "cuda",
+                  "gpu",
+                  "gpu-acceleration",
+                  "gpu-computing",
+                  "gpu-programming",
+                  "multi-core",
+                  "multicore",
+                  "multithreading",
+                  "parallel-computing",
+                  "parallel-patterns",
+                  "parallel-programming",
+                  "parallelism",
+                  "sliding-windows",
+                  "stream",
+                  "stream-api",
+                  "stream-processing",
+                  "streaming",
+                  "streaming-api",
+                  "streaming-data",
+                  "streams"
+                ]
               },
               "first_seen": "2026-08-28T23:12:35.532Z"
             },
@@ -1411,12 +2486,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Experiments in Streaming",
+                "homepage": null,
                 "id": 24509394,
                 "language": "Scala",
+                "license": "Apache-2.0",
                 "last_commit": "2016-08-27T23:16:52Z",
+                "open_issues": 5,
                 "owner": "bkirwi",
                 "repo": "coast",
-                "stars": 60
+                "stars": 60,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:12:35.532Z"
             },
@@ -1427,12 +2507,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Stream Ops is a fully embeddable data streaming engine and stream processing API for Java.",
+                "homepage": null,
                 "id": 187457354,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2019-10-20T14:39:19Z",
+                "open_issues": 4,
                 "owner": "nanosai",
                 "repo": "stream-ops-java",
-                "stars": 50
+                "stars": 50,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:12:35.532Z"
             },
@@ -1443,12 +2528,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple yet powerful live data computation framework.",
+                "homepage": "https://www.scramjet.org",
                 "id": 358021349,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2022-04-29T14:49:47Z",
+                "open_issues": 10,
                 "owner": "scramjetorg",
                 "repo": "framework-js",
-                "stars": 41
+                "stars": 41,
+                "topics": [
+                  "data-stream",
+                  "es6",
+                  "event-stream",
+                  "javascript",
+                  "nodejs",
+                  "promise",
+                  "react",
+                  "reactive-programming",
+                  "spark-streaming",
+                  "stream",
+                  "stream2",
+                  "transformations",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T23:12:35.532Z"
             },
@@ -1459,12 +2563,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python port of Scramjet framework",
+                "homepage": null,
                 "id": 397879049,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-10-24T07:20:03Z",
+                "open_issues": 1,
                 "owner": "scramjetorg",
                 "repo": "framework-python",
-                "stars": 35
+                "stars": 35,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:12:35.532Z"
             },
@@ -1475,12 +2584,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Stateful actors on Apache Flink 2.x and Java 21 — durable per-key state, exactly-once messaging, Kafka and Kinesis I/O, Kubernetes-native deployment. Continues the Apache Stateful Functions programming model on the modern Flink line.",
+                "homepage": "https://kzmlabs.github.io/flink-statefun/",
                 "id": 1147187319,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-23T21:08:40Z",
+                "open_issues": 19,
                 "owner": "kzmlabs",
                 "repo": "flink-statefun",
-                "stars": 13
+                "stars": 13,
+                "topics": [
+                  "actor-model",
+                  "apache-flink",
+                  "distributed-systems",
+                  "event-driven",
+                  "event-driven-architecture",
+                  "exactly-once",
+                  "flink",
+                  "flink-kubernetes-operator",
+                  "java",
+                  "java21",
+                  "kafka",
+                  "kafka-headers",
+                  "kinesis",
+                  "kubernetes",
+                  "maven-central",
+                  "rocksdb",
+                  "serverless",
+                  "stateful-functions",
+                  "stateful-stream-processing",
+                  "statefun"
+                ]
               },
               "first_seen": "2026-08-28T23:12:35.532Z"
             },
@@ -1491,12 +2626,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple yet powerful live data computation framework. C++ port of Scramjet framework.",
+                "homepage": null,
                 "id": 397372480,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2022-09-09T10:33:56Z",
+                "open_issues": 0,
                 "owner": "scramjetorg",
                 "repo": "framework-cpp",
-                "stars": 4
+                "stars": 4,
+                "topics": [
+                  "cpp",
+                  "data-stream",
+                  "event-stream",
+                  "reactive-programming",
+                  "scramjet",
+                  "spark-streaming",
+                  "stream",
+                  "stream2",
+                  "transformations"
+                ]
               },
               "first_seen": "2026-08-28T23:12:35.532Z"
             }
@@ -1514,12 +2664,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG.",
+                "homepage": "https://pathway.com",
                 "id": 571186647,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T05:31:40Z",
+                "open_issues": 35,
                 "owner": "pathwaycom",
                 "repo": "pathway",
-                "stars": 62374
+                "stars": 62374,
+                "topics": [
+                  "batch-processing",
+                  "data-analytics",
+                  "data-pipelines",
+                  "data-processing",
+                  "dataflow",
+                  "etl",
+                  "etl-framework",
+                  "iot-analytics",
+                  "kafka",
+                  "machine-learning-algorithms",
+                  "pathway",
+                  "python",
+                  "real-time",
+                  "rust",
+                  "stream-processing",
+                  "streaming",
+                  "time-series-analysis"
+                ]
               },
               "first_seen": "2026-08-28T23:12:35.532Z"
             },
@@ -1530,12 +2703,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Incremental engine for long horizon agents 🌟 Star if you like it!",
+                "homepage": "https://cocoindex.io",
                 "id": 942312530,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T22:26:54Z",
+                "open_issues": 74,
                 "owner": "cocoindex-io",
                 "repo": "cocoindex",
-                "stars": 11428
+                "stars": 11430,
+                "topics": [
+                  "agentic-data-framework",
+                  "ai",
+                  "ai-agents",
+                  "change-data-capture",
+                  "codebase-intelligence",
+                  "context-engineering",
+                  "data-engineering",
+                  "data-indexing",
+                  "data-processing",
+                  "etl",
+                  "help-wanted",
+                  "indexing",
+                  "knowledge-graph",
+                  "llm",
+                  "long-horizon-agent",
+                  "python",
+                  "rag",
+                  "real-time",
+                  "rust",
+                  "semantic-search"
+                ]
               },
               "first_seen": "2026-08-28T23:12:35.532Z"
             },
@@ -1546,12 +2745,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fancy stream processing made operationally mundane",
+                "homepage": "https://docs.redpanda.com/connect/home/",
                 "id": 54435102,
                 "language": "Go",
+                "license": null,
                 "last_commit": "2026-08-28T20:59:21Z",
+                "open_issues": 327,
                 "owner": "redpanda-data",
                 "repo": "connect",
-                "stars": 8736
+                "stars": 8736,
+                "topics": [
+                  "amqp",
+                  "cqrs",
+                  "data-engineering",
+                  "data-ops",
+                  "etl",
+                  "event-sourcing",
+                  "go",
+                  "golang",
+                  "kafka",
+                  "logs",
+                  "message-bus",
+                  "message-queue",
+                  "nats",
+                  "rabbitmq",
+                  "stream-processing",
+                  "stream-processor",
+                  "streaming-data"
+                ]
               },
               "first_seen": "2026-08-28T23:12:35.532Z"
             },
@@ -1562,12 +2784,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Privacy and Security focused Segment-alternative, in Golang and React  ",
+                "homepage": "https://www.rudderstack.com/",
                 "id": 197743848,
                 "language": "Go",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T14:13:28Z",
+                "open_issues": 47,
                 "owner": "rudderlabs",
                 "repo": "rudder-server",
-                "stars": 4478
+                "stars": 4478,
+                "topics": [
+                  "bigquery",
+                  "cdp",
+                  "customer-data",
+                  "customer-data-lake",
+                  "customer-data-pipeline",
+                  "customer-data-platform",
+                  "data-engineering",
+                  "data-integration",
+                  "data-pipeline",
+                  "data-synchronization",
+                  "data-warehouse",
+                  "elt",
+                  "etl",
+                  "event-streaming",
+                  "privacy",
+                  "redshift",
+                  "segment-alternative",
+                  "snowflake",
+                  "warehouse-management",
+                  "warehouse-native"
+                ]
               },
               "first_seen": "2026-08-28T23:12:35.532Z"
             },
@@ -1578,12 +2826,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ingestr is a CLI tool to copy data between any databases with a single command seamlessly.",
+                "homepage": "https://getbruin.com/docs/ingestr/",
                 "id": 756594023,
                 "language": "Go",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T16:43:43Z",
+                "open_issues": 32,
                 "owner": "bruin-data",
                 "repo": "ingestr",
-                "stars": 3904
+                "stars": 3909,
+                "topics": [
+                  "bigquery",
+                  "copy-database",
+                  "data-ingestion",
+                  "data-integration",
+                  "data-pipeline",
+                  "duckdb",
+                  "ingestion-pipeline",
+                  "mssql",
+                  "postgresql",
+                  "snowflake"
+                ]
               },
               "first_seen": "2026-08-28T23:12:35.532Z"
             },
@@ -1594,12 +2858,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Source-agnostic distributed change data capture system",
+                "homepage": null,
                 "id": 7209229,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2023-09-28T17:53:01Z",
+                "open_issues": 41,
                 "owner": "linkedin",
                 "repo": "databus",
-                "stars": 3680
+                "stars": 3680,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:12:35.532Z"
             },
@@ -1610,12 +2879,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Apache Flume is a distributed, reliable, and available service for efficiently collecting, aggregating, and moving large amounts of log-like data",
+                "homepage": "https://flume.apache.org/",
                 "id": 2198510,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-25T11:48:31Z",
+                "open_issues": 79,
                 "owner": "apache",
                 "repo": "logging-flume",
-                "stars": 2570
+                "stars": 2570,
+                "topics": [
+                  "apache",
+                  "api",
+                  "flume",
+                  "java",
+                  "jvm",
+                  "library"
+                ]
               },
               "first_seen": "2026-08-28T23:12:35.532Z"
             },
@@ -1626,12 +2907,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Build data pipelines with SQL and Python, ingest data from different sources, add quality checks, and build end-to-end flows.",
+                "homepage": "https://getbruin.com/docs/bruin/",
                 "id": 674225653,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T22:08:48Z",
+                "open_issues": 60,
                 "owner": "bruin-data",
                 "repo": "bruin",
-                "stars": 1678
+                "stars": 1679,
+                "topics": [
+                  "analytics",
+                  "bigquery",
+                  "data-analysis",
+                  "data-ingestion",
+                  "data-modeling",
+                  "data-pipelines",
+                  "data-platform",
+                  "data-transformation",
+                  "python",
+                  "snowflake",
+                  "sql"
+                ]
               },
               "first_seen": "2026-08-28T23:12:35.532Z"
             },
@@ -1642,12 +2940,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An extensible distributed system for reliable nearline data streaming at scale",
+                "homepage": null,
                 "id": 40510168,
                 "language": "Java",
+                "license": "BSD-2-Clause",
                 "last_commit": "2026-08-19T05:01:22Z",
+                "open_issues": 36,
                 "owner": "linkedin",
                 "repo": "brooklin",
-                "stars": 966
+                "stars": 966,
+                "topics": [
+                  "change-data-capture",
+                  "data-streaming",
+                  "distributed-systems",
+                  "java",
+                  "kafka",
+                  "kafka-mirror-maker",
+                  "linkedin",
+                  "scalability"
+                ]
               },
               "first_seen": "2026-08-28T23:12:35.532Z"
             },
@@ -1658,12 +2970,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "LinkedIn's previous generation Kafka to HDFS pipeline.",
+                "homepage": null,
                 "id": 7266306,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2020-08-27T08:06:28Z",
+                "open_issues": 3,
                 "owner": "LinkedInAttic",
                 "repo": "camus",
-                "stars": 878
+                "stars": 878,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:12:35.532Z"
             },
@@ -1674,12 +2991,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Netflix's distributed Data Pipeline",
+                "homepage": null,
                 "id": 8914350,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2023-04-10T10:22:36Z",
+                "open_issues": 6,
                 "owner": "Netflix",
                 "repo": "suro",
-                "stars": 796
+                "stars": 796,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:12:35.532Z"
             },
@@ -1690,12 +3012,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The fast, config-driven way to move data in Rust — a native CLI and an embeddable Rust ETL library",
+                "homepage": "https://faucet-hq.github.io/faucet-stream/",
                 "id": 1189252746,
                 "language": "Rust",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T07:24:23Z",
+                "open_issues": 47,
                 "owner": "faucet-hq",
                 "repo": "faucet-stream",
-                "stars": 7
+                "stars": 7,
+                "topics": [
+                  "cdc",
+                  "cli",
+                  "connectors",
+                  "data-engineering",
+                  "data-integration",
+                  "data-pipeline",
+                  "elt",
+                  "etl",
+                  "kafka",
+                  "parquet",
+                  "rust",
+                  "singer",
+                  "streaming"
+                ]
               },
               "first_seen": "2026-08-28T23:12:35.532Z"
             },
@@ -1706,12 +3047,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "yet another streaming db",
+                "homepage": null,
                 "id": 1124428696,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-08-13T04:58:50Z",
+                "open_issues": 0,
                 "owner": "JayJamieson",
                 "repo": "yasdb",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:12:35.532Z"
             }
@@ -1729,12 +3075,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "StreamAlert is a serverless, realtime data analysis framework which empowers you to ingest, analyze, and alert on data from any environment, using datasources and alerting logic you define.",
+                "homepage": "https://streamalert.io",
                 "id": 79683936,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-10-23T17:15:34Z",
+                "open_issues": 90,
                 "owner": "airbnb",
                 "repo": "streamalert",
-                "stars": 2889
+                "stars": 2889,
+                "topics": [
+                  "analysis",
+                  "aws",
+                  "kinesis",
+                  "lambda",
+                  "rules",
+                  "security",
+                  "serverless",
+                  "terraform"
+                ]
               },
               "first_seen": "2026-08-28T23:12:35.532Z"
             },
@@ -1745,12 +3105,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🦎 A lightweight, multi-protocol gateway for event-driven applications and AI agents. Expose and govern Kafka, MQTT, APIs, and MCP through one high-performance engine with shared routing, security, schema, and observability.",
+                "homepage": "https://docs.aklivity.io/latest",
                 "id": 436039945,
                 "language": "Java",
-                "last_commit": "2026-08-28T22:55:28Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-28T23:59:33Z",
+                "open_issues": 227,
                 "owner": "aklivity",
                 "repo": "zilla",
-                "stars": 1713
+                "stars": 1713,
+                "topics": [
+                  "api-gateway",
+                  "asyncapi",
+                  "event-driven-architecture",
+                  "event-stream-proxy",
+                  "event-streaming",
+                  "grpc",
+                  "iot",
+                  "kafka",
+                  "kafka-proxy",
+                  "mqtt",
+                  "openapi",
+                  "proxy",
+                  "rest",
+                  "server-sent-events",
+                  "streaming-api"
+                ]
               },
               "first_seen": "2026-08-28T23:12:35.532Z"
             },
@@ -1761,12 +3142,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "SSE Stream Aggregator",
+                "homepage": null,
                 "id": 7043506,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2023-04-10T11:04:13Z",
+                "open_issues": 7,
                 "owner": "Netflix",
                 "repo": "Turbine",
-                "stars": 833
+                "stars": 833,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:12:35.532Z"
             },
@@ -1777,12 +3163,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Low-code tool for automating actions on real time data | Stream processing for the users.",
+                "homepage": "https://nussknacker.io",
                 "id": 95784433,
                 "language": "Scala",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-27T15:36:19Z",
+                "open_issues": 52,
                 "owner": "TouK",
                 "repo": "nussknacker",
-                "stars": 742
+                "stars": 742,
+                "topics": [
+                  "apache-flink",
+                  "automation",
+                  "big-data",
+                  "data-streaming",
+                  "decision-engine",
+                  "decision-making",
+                  "decisioning",
+                  "flink",
+                  "flink-kafka",
+                  "gui",
+                  "kafka",
+                  "low-code",
+                  "lowcode",
+                  "real-time",
+                  "rules-engine",
+                  "scala",
+                  "stream-processing",
+                  "streaming",
+                  "touk"
+                ]
               },
               "first_seen": "2026-08-28T23:12:35.532Z"
             },
@@ -1793,12 +3204,35 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Code-Native Data Privacy",
+                "homepage": "https://www.streamdal.com",
                 "id": 674687849,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-02-22T13:52:02Z",
+                "open_issues": 8,
                 "owner": "streamdal",
                 "repo": "streamdal",
-                "stars": 615
+                "stars": 615,
+                "topics": [
+                  "astrojs",
+                  "data-contracts",
+                  "deno",
+                  "docker",
+                  "event-driven",
+                  "go",
+                  "javascript",
+                  "message-queues",
+                  "nodejs",
+                  "observability",
+                  "python",
+                  "reactjs",
+                  "rust",
+                  "streaming-data",
+                  "tail-f",
+                  "wasi",
+                  "wasm"
+                ]
               },
               "first_seen": "2026-08-28T23:12:35.532Z"
             },
@@ -1809,12 +3243,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Substation is a toolkit for routing, normalizing, and enriching security event and audit logs.",
+                "homepage": "https://substation.readme.io",
                 "id": 481983343,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-01-20T18:53:05Z",
+                "open_issues": 3,
                 "owner": "brexhq",
                 "repo": "substation",
-                "stars": 405
+                "stars": 405,
+                "topics": [
+                  "automation",
+                  "aws",
+                  "logging",
+                  "monitoring",
+                  "observability",
+                  "security"
+                ]
               },
               "first_seen": "2026-08-28T23:12:35.532Z"
             },
@@ -1825,12 +3271,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "StreamFlow™ is a stream processing tool designed to help build and monitor processing workflows.",
+                "homepage": "https://github.com/lmco/streamflow/wiki",
                 "id": 24855056,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2024-12-16T13:39:36Z",
+                "open_issues": 35,
                 "owner": "lmco",
                 "repo": "streamflow",
-                "stars": 257
+                "stars": 257,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:12:35.532Z"
             },
@@ -1841,12 +3292,25 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "StreamLine - Streaming Analytics ",
+                "homepage": null,
                 "id": 35627039,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2023-08-27T19:38:08Z",
+                "open_issues": 123,
                 "owner": "hortonworks",
                 "repo": "streamline",
-                "stars": 167
+                "stars": 167,
+                "topics": [
+                  "flink",
+                  "kafka",
+                  "kafka-streams",
+                  "real-time",
+                  "spark-streaming",
+                  "storm",
+                  "streaming"
+                ]
               },
               "first_seen": "2026-08-28T23:12:35.532Z"
             },
@@ -1857,12 +3321,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Real-time decision features without streaming infra. Turn live events into product reflexes — no Kafka, no Flink, no feature store.",
+                "homepage": "https://beava.dev",
                 "id": 1229310351,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-05-30T01:59:44Z",
+                "open_issues": 38,
                 "owner": "beava-dev",
                 "repo": "beava",
-                "stars": 138
+                "stars": 138,
+                "topics": [
+                  "ai-agents",
+                  "analytics",
+                  "feature-store",
+                  "fraud-detection",
+                  "llm-guardrails",
+                  "python",
+                  "real-time",
+                  "recommendations",
+                  "rust",
+                  "streaming"
+                ]
               },
               "first_seen": "2026-08-28T23:12:35.532Z"
             },
@@ -1873,12 +3353,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A platform for real-time streaming search",
+                "homepage": null,
                 "id": 42466556,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2016-03-09T23:17:05Z",
+                "open_issues": 2,
                 "owner": "rwalk",
                 "repo": "straw",
-                "stars": 103
+                "stars": 103,
+                "topics": [
+                  "lucene",
+                  "luwak",
+                  "storm",
+                  "streaming-search"
+                ]
               },
               "first_seen": "2026-08-28T23:12:35.532Z"
             },
@@ -1889,12 +3379,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python application to setup and run streaming (contextual) bandit experiments.",
+                "homepage": null,
                 "id": 39251868,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-09-04T10:20:07Z",
+                "open_issues": 4,
                 "owner": "Nth-iteration-labs",
                 "repo": "streamingbandit",
-                "stars": 85
+                "stars": 85,
+                "topics": [
+                  "bandit",
+                  "cmab",
+                  "contextual",
+                  "mab",
+                  "multi-armed",
+                  "multi-armed-bandit",
+                  "online",
+                  "sequential",
+                  "streaming"
+                ]
               },
               "first_seen": "2026-08-28T23:12:35.532Z"
             },
@@ -1905,12 +3410,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Realistic synthetic events for testing, demos, and pipelines — streamed live or generated in bulk",
+                "homepage": "https://eventum.run",
                 "id": 714666245,
                 "language": "Python",
-                "last_commit": "2026-08-28T21:53:15Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T02:19:50Z",
+                "open_issues": 4,
                 "owner": "eventum-generator",
                 "repo": "eventum",
-                "stars": 63
+                "stars": 63,
+                "topics": [
+                  "clickhouse",
+                  "data-engineering",
+                  "data-generation",
+                  "devops",
+                  "elasticsearch",
+                  "fake-data",
+                  "load-testing",
+                  "log-generator",
+                  "logs",
+                  "mock-data",
+                  "observability",
+                  "opensearch",
+                  "python",
+                  "siem",
+                  "sre",
+                  "synthetic-data",
+                  "test-data",
+                  "time-series"
+                ]
               },
               "first_seen": "2026-08-28T23:12:35.532Z"
             },
@@ -1921,12 +3450,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Distributed, Scalable, Fault-Tolerant, Minimalistic Workflow Engine - No DAGs, No YAML, No Cumbersome Diagrams, Just Code",
+                "homepage": null,
                 "id": 582726922,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2025-04-30T20:25:44Z",
+                "open_issues": 5,
                 "owner": "javactrl",
                 "repo": "javactrl-kafka",
-                "stars": 18
+                "stars": 18,
+                "topics": [
+                  "business-process",
+                  "durable-execution",
+                  "durable-functions",
+                  "kafka",
+                  "kafka-streams",
+                  "micorservices",
+                  "microservice-orchestration",
+                  "microservices-architecture",
+                  "workflow",
+                  "workflow-as-code",
+                  "workflow-engine",
+                  "workflow-management"
+                ]
               },
               "first_seen": "2026-08-28T23:12:35.532Z"
             }
@@ -1944,12 +3491,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Benchmarks for Low Latency (Streaming) solutions including Apache Storm, Apache Spark, Apache Flink, ...",
+                "homepage": null,
                 "id": 48056143,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2023-12-17T15:37:54Z",
+                "open_issues": 25,
                 "owner": "yahoo",
                 "repo": "streaming-benchmarks",
-                "stars": 648
+                "stars": 648,
+                "topics": [
+                  "benchmarks",
+                  "low-latency",
+                  "streaming"
+                ]
               },
               "first_seen": "2026-08-28T23:12:35.532Z"
             },
@@ -1960,12 +3516,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Automated message queue orchestration for scaled-up benchmarking.",
+                "homepage": null,
                 "id": 27949677,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2016-01-23T17:38:54Z",
+                "open_issues": 7,
                 "owner": "tylertreat",
                 "repo": "Flotilla",
-                "stars": 238
+                "stars": 238,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:12:35.532Z"
             },
@@ -1976,12 +3537,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple storm performance/stress test",
+                "homepage": null,
                 "id": 13249769,
                 "language": "Java",
+                "license": "NOASSERTION",
                 "last_commit": "2023-03-21T05:08:52Z",
+                "open_issues": 2,
                 "owner": "yahoo",
                 "repo": "storm-perf-test",
-                "stars": 75
+                "stars": 75,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:12:35.532Z"
             }
@@ -1995,15 +3561,25 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T23:12:35.532Z",
+    "last_updated": "2026-08-29T04:23:58.833Z",
     "original_repository_info": {
       "archived": false,
+      "description": "a curated list of awesome streaming frameworks, applications, etc",
+      "homepage": "https://manuzhang.github.io/awesome-streaming",
       "id": 28163761,
       "language": "JavaScript",
-      "last_commit": "2026-08-28T02:04:33Z",
+      "license": null,
+      "last_commit": "2026-08-29T01:30:42Z",
+      "open_issues": 5,
       "owner": "manuzhang",
       "repo": "awesome-streaming",
-      "stars": 3009
+      "stars": 3009,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "list",
+        "stream-processing"
+      ]
     },
     "original_repository_sha": "3c0843af53e6efb5da334d89fe68aa2cd3162ba5",
     "enhanced_repository": "enhansome/enhansome-streaming",
